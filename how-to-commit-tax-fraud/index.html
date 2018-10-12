@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    
+      
+    
+    <title>How to Commit Tax Fraud | Alfred K</title>
+    <meta name="description" content="A man gets caught writing $2 million in fake checks to himself. His mistake: writing too many 9s. A story about real fake numbers and Benford's law.">
+    <meta name="author" content="Alfred K">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width">
+
+    
+
+    <link rel="stylesheet" type="text/css" href="/assets/main-fc206c46a638ac1930444c46c90ecb61.css">
+    
+      <link rel="stylesheet" type="text/css" href="/assets/post/how-to-commit-tax-fraud-4c195cf88cd6dd666d6f513b0433983d.css">
+    
+  </head>
+  <body class="how-to-commit-tax-fraud-page">
+    <a id="top"></a>
+    <div class="container">
+      <header class="top dark">
+        <a title="Home" class="logo" href="/">
+          <span>a</span>
+        </a>
+        <ul>
+          <li class="articles">
+            <a title="Articles" href="/articles">Articles</a>
+          </li>
+          <li class="about">
+            <a title="About" href="/about">About</a>
+          </li>
+        </ul>
+      </header>
+      <article class="post centered">
+  <header>
+    <hgroup>
+      <h1>How to Commit Tax Fraud</h1>
+      
+    </hgroup>
+  </header>
+  <div class="subscribe-top">
+  Subscribe
+  <ul class="subscribe-list">
+  <li class="twitter">
+    <i data-icon="&#9729;" aria-hidden="true"></i>
+    <a href="http://twitter.com/aflrd">Twitter</a>
+  </li>
+  <li class="email">
+    <i data-icon="&#9993;" aria-hidden="true"></i>
+    <a href="http://feedburner.google.com/fb/a/mailverify?uri=alfredk&amp;loc=en_US">Email</a>
+  </li>
+  <li class="rss">
+    <i data-icon="&#9178;" aria-hidden="true"></i>
+    <a href="http://feeds.feedburner.com/alfredk">RSS</a>
+  </li>
+</ul>
+
+</div>
+
+  <section class="body">
+    <p>In 1993, Wayne James Nelson was accused of trying to defraud the state of Arizona of $2 million. Nelson, employed by the state, wrote 23 checks to a fictitious vendor in seemingly random amounts. But his plan had a major flaw: the amounts weren’t <em>random enough</em>.</p>
+<figure class="nelson_checks"><table><tr><th>
+Date
+</th><th>
+Amount
+</th></tr><tr><td>
+1992/10/09
+</td><td>
+1927.48
+</td></tr><tr><td>
+1992/10/09
+</td><td>
+27902.31
+</td></tr><tr><td>
+1992/10/14
+</td><td>
+86241.90
+</td></tr><tr><td>
+1992/10/14
+</td><td>
+72117.46
+</td></tr><tr><td>
+1992/10/14
+</td><td>
+81321.75
+</td></tr><tr><td>
+1992/10/14
+</td><td>
+97473.96
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+93249.11
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+89658.17
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+87776.89
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+92105.83
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+79949.16
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+87602.93
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+96879.27
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+91806.47
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+84991.67
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+90831.83
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+93766.67
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+88338.72
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+94639.49
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+83709.28
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+96412.21
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+88432.86
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+71552.16
+</td></tr></table>
+<figcaption>The 23 checks written to a fictitious vendor</figcaption>
+</figure>
+
+<p>From just these numbers, the state deduced that the amounts had likely been faked. What makes these numbers suspicious?</p>
+<p>To answer this, let’s take a detour into a story of two scientists, logarithms, and dirty books.</p>
+<h3 id="suspicious-numbers">Suspicious Numbers</h3>
+<p>Simon Newcomb was an astronomer, mathematician, and polymath living in the late nineteenth century. In those pre-calculator days, mathematicians relied on reference books like Adriaan Vlacq’s <em>Arithmetica Logarithmica</em>. This was a book whose sole purpose was to provide pages upon pages of numbers–pre-calculated logarithms, to ten decimal places, of <em>every natural number from 1 to 100,000</em>. (Years later, some 603 errors were found. To think that someone found these errors among the 2 million digits contained is remarkable.)</p>
+<figure>
+<img src="http://alfre.dk/assets/img/how-to-commit-tax-fraud/vlacq_arithmetica_logarithmica.jpg" alt="The top half of a page from Vlacq’s Arithmetica Logarithmica"><figcaption>The top half of a page from Vlacq’s <em>Arithmetica Logarithmica</em></figcaption>
+</figure>
+<p>One day, while perusing one of these logarithm books at the library, Newcomb noticed something peculiar–the pages were dirtiest at the beginning, and progressively became cleaner throughout.</p>
+<p>You might not think this is a very profound discovery, and you would be right. Dirty pages are not intrinsically interesting. But Newcomb was not one of us–he was a nineteenth century mathematician. For him, this pattern of dirt was fascinating, and sparked a desire to investigate further.</p>
+<p>He eventually found some patterns to the madness that ran deeper than the dirt on the surface. First, the dirt was not just any dirt; it was dirt from overuse and the touching of countless fingers. And it was not simply that <em>earlier</em> pages were dirtier; instead, pages with <em>numbers beginning with 1</em> were the dirtiest, followed by those with a starting digit of 2, then 3, and so on. The cleanest, least used pages were those with numbers beginning with 9.</p>
+<p>This was far more interesting than a mere dirt gradient. Were scientists and mathematicians looking up numbers starting with 1 much more often than those starting with 9?</p>
+<h3 id="dirty-books-again">Dirty Books, Again?</h3>
+<p>Newcomb published an article about this phenomenon in 1881, even going so far as to describe a precise law for the probability that a number–any number you might find–starts with a certain digit. By his reasoning, the probability of a number beginning with a digit <em>d</em> is given by:</p>
+<div class="math">
+\[\operatorname{Pr}(d) = \log_{10}(1+\frac{1}{d}) \]
+</div>
+
+<p>This implied that you would find numbers starting with the digit 1 about 30 percent of the time, and with the digit 9 a mere 4.6 percent of the time.</p>
+<p>It was a profound theory–sadly, Newcomb’s article went largely unnoticed.</p>
+<p>Luckily, fifty-seven years later in 1938, a physicist by the name of Frank Benford was around to ensure the obscure theory’s prosperity. In a quite literal example of history repeating itself, Benford–apparently unaware of his predecessor–made the exact same discovery as Newcomb through the <em>exact same observation</em>. He, too, found dirtier pages at the start of logarithm books, and even derived the same formula. (Evidently, dirty pages are more interesting than we think.)</p>
+<p>But unlike Newcomb, Benford had the means to test his theory empirically. He spent several years gathering 20,229 observations from a diverse range of data sets: baseball statistics, areas of rivers, atomic weights of elements–even arbitrary numbers plucked from <em>Reader’s Digest</em> articles.</p>
+<p>This mashup of all kinds of disparate data happened to be a near-perfect fit with the theory: 30.6% all the numbers in the set began with 1 (compared with an expected 30.1%), 4.7% began with 9 (4.6% expected), and the digits between appeared with gradually decreasing frequency.</p>
+<figure id="benford_data" class="chart" data-values="[[&quot;Digit&quot;,&quot;Benford's Observations&quot;],[1,0.306],[2,0.185],[3,0.124],[4,0.094],[5,0.08],[6,0.064],[7,0.051],[8,0.049],[9,0.047]]"><div class="no_chart">
+Loading chart…
+</div></figure>
+
+<p>Benford’s findings were striking. His article on the topic, unlike Newcomb’s, spread quickly through the academic world, and the peculiar phenomenon of first-digit distributions soon became known as <em>Benford’s law</em>.</p>
+<p>Perhaps Newcomb deserves more credit for discovering the law half a century earlier. Unfortunately for him, as made poignant by Stigler’s law of eponymy:</p>
+<blockquote>
+<p>No scientific discovery is named after<br>its original discoverer.</p>
+</blockquote>
+<p>In any case, the name of the law tells us nothing about why we observe it or where it applies, which are the real puzzles here. Let’s keep digging.</p>
+<h3 id="newcombs-benfords-law"><del>Newcomb’s</del> Benford’s Law</h3>
+<p>Despite many attempts by mathematicians to prove <em>why</em> Benford’s law exists, none has been entirely successful. One promising development, however, comes from the assumption of <em>scale invariance</em>, the idea that any universal law about digits should naturally be independent of the units used. If we convert from feet to meters, we should still see a similar distribution of first digits.</p>
+<p>Empirically, this turns out to be true. As an example, let’s pick a random set of data–say, the masses of 618 planets in kilograms.</p>
+<p>Here is a chart comparing the first digits of those masses against Benford’s law:</p>
+<figure id="planet_masses_kg" class="chart" data-url="http://alfre.dk/assets/data/how-to-commit-tax-fraud/planet_masses_kg.json"><div class="no_chart">
+Loading chart…
+</div></figure>
+
+<p>As we can see, the data follow Benford’s law quite well, though not perfectly. Here is another comparison using the same data, except the masses are expressed as multiples of the Earth’s mass:</p>
+<figure id="planet_masses_earths" class="chart" data-url="http://alfre.dk/assets/data/how-to-commit-tax-fraud/planet_masses_earths.json"><div class="no_chart">
+Loading chart…
+</div></figure>
+
+<p>Once more, this time expressing the planetary masses in units of <em>American Big Macs</em> (we specify <em>American</em> because, apparently, Big Macs vary slightly in weight across countries):</p>
+<figure id="planet_masses_big_mac" class="chart" data-url="http://alfre.dk/assets/data/how-to-commit-tax-fraud/planet_masses_big_mac.json"><div class="no_chart">
+Loading chart…
+</div></figure>
+
+<p>In this last case, we see a slightly poorer fit of the data with Benford’s law, especially for the digits 3 and 4. But, keeping in mind that our initial data in kilograms was also slightly off, this is a reasonable deviation. With a larger pool of data, we would likely have found a closer fit regardless of scale.</p>
+<p>We should note, though, that even with this deviation, it is still quite clear that the majority of the values begin with lower digits. The similar trends across these three charts suggests that Benford’s law exhibits the properties of <em>scale invariance</em>, and many researchers have found similar results.</p>
+<p>So, the law appears to apply for the same dataset expressed in different units. But, this still doesn’t explain why we would see the same pattern in a large <em>range</em> of datasets.</p>
+<p>After all, what do baseball statistics have in common with atomic weights, or numbers found in a copy of <em>Reader’s Digest</em>?</p>
+<h3 id="jurisdiction-of-the-law">Jurisdiction of the Law</h3>
+<p>Benford’s law fits with many datasets, but not all. For example, telephone numbers have a more uniform distribution of first digits, since area codes are assigned (and thus chosen to fit a certain distribution) rather than naturally occurring. But is it only artificially-created data that does not fit Benford’s law?</p>
+<p>Unfortunately, we have no systematic method to predict if a given dataset will fit the law. Not all hope is lost, however; with some new knowledge, we can make a pretty good guess.</p>
+<p>Ralph Raimi, a mathematician from the University of Rochester, made a keen observation: even if you start with a variety of datasets that do <em>not</em> fit Benford’s law, the <em>combination</em> of all of them will often lead to a close fit.</p>
+<p>Therein lies the key: the sets of numbers that most closely follow Benford’s law are those that come from a wide range of underlying distributions.</p>
+<p>In general, if you take random samples from random distributions, then your data will converge to fit the law.</p>
+<p>Intuitively, you could say that the numbers contained in different articles in a <em>Reader’s Digest</em> issue, being practically unrelated, would fit this condition almost perfectly. This is also the case with stock prices, with each company’s performance being largely independent of others.</p>
+<p>This is a promising theory as to the nature of data that fits Benford’s law. With this in mind, we can (finally!) return to the case of Wayne James Nelson, accused of fraud by the Arizona state government.</p>
+<h3 id="detecting-fraud">Detecting Fraud</h3>
+<p>Let’s take another look at the amounts of the fake checks.</p>
+<figure class="nelson_checks"><table><tr><th>
+Date
+</th><th>
+Amount
+</th></tr><tr><td>
+1992/10/09
+</td><td>
+1927.48
+</td></tr><tr><td>
+1992/10/09
+</td><td>
+27902.31
+</td></tr><tr><td>
+1992/10/14
+</td><td>
+86241.90
+</td></tr><tr><td>
+1992/10/14
+</td><td>
+72117.46
+</td></tr><tr><td>
+1992/10/14
+</td><td>
+81321.75
+</td></tr><tr><td>
+1992/10/14
+</td><td>
+97473.96
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+93249.11
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+89658.17
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+87776.89
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+92105.83
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+79949.16
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+87602.93
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+96879.27
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+91806.47
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+84991.67
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+90831.83
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+93766.67
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+88338.72
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+94639.49
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+83709.28
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+96412.21
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+88432.86
+</td></tr><tr><td>
+1992/10/19
+</td><td>
+71552.16
+</td></tr></table></figure>
+
+<p>Given that the checks were all made to the same vendor, we cannot, without a bit of thought, assume that Benford’s law applies based on the theory just discussed. For example, if we imagine a vendor that sells only a single product or service, we might find that its prices tend to hover around the same point. In other words, its prices may come from the same underlying distribution, which may be skewed in a way that does not conform to Benford’s law.</p>
+<p>But we might be able to refine our guess by taking a closer look at the details of this particular case. What can we deduce?</p>
+<p>Well, the nature of a governmental organization, such as the Arizona state government, is to purchase from larger, more mature vendors. Larger vendors will typically have a more diverse portfolio of products and services, leading to more diverse pricing schemes and price distributions. Then, in such a case, Benford’s law would be more likely to apply.</p>
+<p>Even then, it’s still not guaranteed.</p>
+<p>Indeed, applying Benford’s law broadly without thinking can often lead to false positives. But that’s not necessarily a bad thing; after all, you choose a tool if it fits the job. False positives are acceptable in a first-pass detection of suspicious activity–which is precisely how Arizona state accountants applied the theory to uncover Nelson’s curious checks.</p>
+<p>Looking at the numbers, it appears that Nelson’s payments were specifically chosen to be under $100,000, a level at which human approval would have been required. If not for a broad application of Benford’s law to flag suspicious data, his checks may have passed under the radar.</p>
+<p>And his checks are, indeed, highly suspicious. Even from a quick glance at the values, only <em>one</em> of the twenty-three values begins with 1, yet <em>twenty-one</em> begin with the digits 7, 8, or 9. Comparing the amounts in a proper test against Benford’s law reveals a significant mismatch.</p>
+<figure id="nelson_benford" class="chart" data-values="[[&quot;Digit&quot;,&quot;Nelson's Checks&quot;],[1,0.043],[2,0.043],[3,0],[4,0],[5,0],[6,0],[7,0.13],[8,0.391],[9,0.391]]"><div class="no_chart">
+Loading chart…
+</div></figure>
+
+<p>Again, this doesn’t necessarily indicate fraud on its own; the application of Benford’s law only served to cast a spotlight on Nelson’s activity. But once the checks were noticed, it only took a quick human investigation to realize the true nature of the payments.</p>
+<p>You may have guessed the outcome by now. The checks were not just going to <em>any</em> bogus vendor–<em>Nelson</em> was the bogus vendor, and he was depositing the checks in his own bank account.</p>
+<p>In the end, Benford’s law found the numbers suspicious, humans found the numbers fraudulent, and Nelson found himself in prison.</p>
+<hr>
+<p>Thanks to a couple of mathematicians and some dirty books, tax people now have fancy ways of detecting fraud, or figuring out if you really just “accidentally” missed a few thousand dollars on your tax return.</p>
+<p>But thanks to this story, you, too, have a new tool in your belt to help you outsmart those sneaky money grabbers–when you make up numbers, make sure a whole bunch of them start with 1.</p>
+<p>Just remember:</p>
+<blockquote>
+<p>If you’re not going to follow the law,<br>at least follow Benford’s law.</p>
+</blockquote>
+<div class="next_post">
+
+
+
+<p>Next story: <a href="http://alfre.dk/finite-monkeys-dont-type">Finite Monkeys Don’t Type</a></p>
+</div>
+
+<div class="subscribe">
+  <p>
+Get updates about new stories through:
+</p>
+  <ul class="subscribe-list">
+  <li class="twitter">
+    
+<i data-icon="&#9729;" aria-hidden="true"></i> <a href="http://twitter.com/aflrd">Twitter</a>
+</li>
+  <li class="email">
+    
+<i data-icon="&#9993;" aria-hidden="true"></i> <a href="http://feedburner.google.com/fb/a/mailverify?uri=alfredk&amp;loc=en_US">Email</a>
+</li>
+  <li class="rss">
+    
+<i data-icon="&#9178;" aria-hidden="true"></i> <a href="http://feeds.feedburner.com/alfredk">RSS</a>
+</li>
+</ul>
+
+</div>
+
+
+
+
+<div class="references">
+
+<h3 id="references">References</h3>
+<p>Benford, Frank. “The Law of Anomalous Numbers.” Proceedings of the American Philosophical Society 78, no. 4 (March 31, 1938): 551–572. doi:10.2307/984802.</p>
+<p>Cleary, Richard, and Jay C. Thibodeau. “Applying Digital Analysis Using Benford’s Law to Detect Fraud: The Dangers of Type I Errors.” Auditing: A Journal of Practice &amp; Theory 24, no. 1 (2005): 77–81.</p>
+<p>“Exoplanet Orbit Database | Exoplanet Data Explorer.” Accessed April 14, 2013. <a href="http://exoplanets.org/"><code class="url">http://exoplanets.org/</code></a>.</p>
+<p>Glaisher, J. W. L. “On Errors in Vlacq’s (often Called Brigg’s or Neper’s) Tables of Ten Figure Logarithms of Numbers.” Monthly Notices of the Royal Astronomical Society 32 (May 1, 1872): 255–262.</p>
+<p>Hill, T. P. “The First Digit Phenomenon: A Century-old Observation About an Unexpected Pattern in Many Numerical Tables Applies to the Stock Market, Census Statistics and Accounting Data.” American Scientist 86, no. 4 (July 1, 1998): 358–363. doi:10.2307/27857060.</p>
+<p>Nigrini, Mark. “I’ve Got Your Number.” Accessed April 14, 2013. http://www.journalofaccountancy.com/issues/1999/may/nigrini.</p>
+<p>Raimi, Ralph A. “The Peculiar Distribution of First Digits.” Scientific American 221, no. 6 (December 1969): 109–120. doi:10.1038/scientificamerican1269-109.</p>
+<p>“Tomash Collection Images.” Accessed April 14, 2013. <a href="http://www.cbi.umn.edu/hostedpublications/Tomash/Images%20web%20site/Image%20files/V%20Images/index_3.htm"><code class="url">http://www.cbi.umn.edu/hostedpublications/Tomash/Images%20web%20site/Image%20files/V%20Images/index_3.htm</code></a>.</p>
+</div>
+    <div class="date">April 2013</div>
+  </section>
+</article>
+
+      <footer>
+        <span class="twitter">
+          <i data-icon="&#9729;" aria-hidden="true"></i>
+          <a href="http://twitter.com/aflrd">What's Twitter?</a>
+        </span>
+        <span class="email">
+          <i data-icon="&#9993;" aria-hidden="true"></i>
+          <a href="mailto:hi&#64;alfre&#46;dk">hi&#64;alfre&#46;dk</a>
+        </span>
+        <span class="rss">
+          <i data-icon="&#9178;" aria-hidden="true"></i>
+          <a href="http://feeds.feedburner.com/alfredk">RSS</a>
+        </span>
+        
+          <span class="top">
+            <a href="#top">&#8593;</a>
+          </span>
+        
+      </footer>
+    </div>
+
+    <script type="text/javascript" src="/assets/main-e8db9fb9ce652081a443e53195d45c09.js"></script>
+
+    
+      
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+      
+        <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+      
+        <script type="text/javascript" src="https://c328740.ssl.cf1.rackcdn.com/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+      
+    
+
+    
+      <script type="text/javascript" src="/assets/post/how-to-commit-tax-fraud-29da816280da6e379d05d88c689f1ee9.js"></script>
+    
+
+    
+      <script>
+        var _gaq=[['_setAccount','UA-39460258-1'],['_trackPageview']];
+        (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+        g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g,s)}(document,'script'));
+      </script>
+    
+  </body>
+</html>

@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alfred K</title>
+    <description>Alfred K's blog--learning through stories. A collection of stories to teach us about ourselves and the world.</description>
+    <link>http://alfre.dk</link>
+    <language>en-us</language>
+    <pubDate>Sun, 21 Apr 2013 12:12:11 +0000</pubDate>
+    <lastBuildDate>Sun, 21 Apr 2013 12:12:11 +0000</lastBuildDate>
+    <atom:link href="http://alfre.dk/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Finite Monkeys Don't Type</title>
+        <description>&lt;p&gt;In 2003, a team of researchers left a computer keyboard in the enclosure of six monkeys and recorded their interactions with the unfamiliar machine.&lt;/p&gt;
+&lt;p&gt;Here is a sample of what the monkeys typed:&lt;/p&gt;
+&lt;blockquote class=&quot;break-all&quot;&gt;
+
+&lt;p&gt;ff vvvvvvvpppsssggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The remainder of the five pages produced were largely filled with the letter &lt;em&gt;S&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Run by researchers from the University of Plymouth, the experiment was developed in response to the well-known &lt;em&gt;infinite monkey theorem&lt;/em&gt;–the idea that an infinite number of monkeys, typing on typewriters for an infinite amount of time, will eventually produce the complete works of Shakespeare.&lt;/p&gt;
+&lt;p&gt;(It was not quite a purely scientific endeavor; perhaps you could tell by the nature of the experiment that it would not likely produce much data of value. Rather, it crossed into the field of performance arts. The grant money came from the university’s arts council, and was partly used to fund the installation of a camera to broadcast a live video of the monkeys.)&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://alfre.dk/assets/img/finite-monkeys-dont-type/monkey_keyboard.jpg&quot; alt=&quot;Monkeys with a computer&quot;&gt;&lt;figcaption&gt;Monkeys with a computer&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;In any case, what the researchers found was a significant problem with the idea of monkeys typing–monkeys will not sit down and continuously press keys at random.&lt;/p&gt;
+&lt;p&gt;The initial interaction occurred when the lead male, with a stone in his hand, began to bash the keyboard. Following their aggressive leader, the other monkeys proceeded to defecate and urinate on the machine.&lt;/p&gt;
+&lt;p&gt;Clearly, we would not expect these six monkeys to ever produce much of value, let alone a Shakespearean composition.&lt;/p&gt;
+&lt;h3 id=&quot;more-monkeys&quot;&gt;More Monkeys&lt;/h3&gt;
+&lt;p&gt;What could we expect if we had &lt;em&gt;infinite monkeys&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;Surely, using our judgment and sense, we could say that there is virtually no chance, regardless of how many monkeys or how much time we have, that they would ever produce all the works of Shakespeare.&lt;/p&gt;
+&lt;p&gt;Yet, mathematically, given the nature of infinity–a scale far beyond our comprehension–the infinite monkey theorem suggests that some infinite monkeys on infinite typewriters with infinite time will, &lt;em&gt;almost surely&lt;/em&gt;, produce these works.&lt;/p&gt;
+&lt;p&gt;It’s simply a matter of having many, many attempts (in this case, an infinite number). You could see it as a much more extreme version of the lottery. Even though the odds of winning the jackpot of a &lt;em&gt;6/49&lt;/em&gt; lottery with a single ticket are around one in 14 million, someone will &lt;em&gt;almost surely&lt;/em&gt; win each time, simply because there are so many players and even more attempts.&lt;/p&gt;
+&lt;p&gt;Indeed, reflecting an understanding of the probable nature of many improbable events, Penn Jillette of the infamous duo &lt;em&gt;Penn &amp;amp; Teller&lt;/em&gt; once said:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Million to one odds happen eight times a day in New York.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In the case of infinite monkeys, the odds of typing out all of Shakespeare’s works may be extremely minuscule, especially if they tend to hit the keyboard with a stone rather than their fingers. But as long as the chance of hitting any key is not absolutely zero, the monkeys with an infinite amount of time will eventually produce enough attempts to achieve success.&lt;/p&gt;
+&lt;p&gt;Does that mean our sensible judgment is wrong? Would we be incorrect to conclude that there is &lt;em&gt;no&lt;/em&gt; chance of monkeys ever producing anything by Shakespeare?&lt;/p&gt;
+&lt;p&gt;After all, to give a sense of the near impossibility of the situation: even if every one of the 10&lt;sup&gt;80&lt;/sup&gt; particles in the known universe was somehow a monkey, and each one could type at an unfathomable speed of, say, 100 000 keys per second, there is still virtually no chance that they would replicate even a short book within the life of the universe.&lt;/p&gt;
+&lt;h3 id=&quot;intuition-vs.mathematics&quot;&gt;Intuition vs. Mathematics&lt;/h3&gt;
+&lt;p&gt;Is our intuition correct–that there is no chance, regardless of the amount of monkeys or time? Or should we accept the mathematical argument, that success is almost guaranteed with infinite monkeys?&lt;/p&gt;
+&lt;p&gt;This odd conflict about odds reveals two sides to the interpretation of probability. Neither is incorrect, depending on our viewpoint.&lt;/p&gt;
+&lt;p&gt;If we accept the mathematical view, we are subscribing to a &lt;em&gt;frequentist&lt;/em&gt; interpretation of probability, currently the dominant view. Under this interpretation, the probability of an event is simply the frequency of its occurrence in a &lt;em&gt;large number of trials&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;On the other hand, if we believe in our sense and judgment, we are taking a &lt;em&gt;subjective interpretation&lt;/em&gt; of probability; we are using our own beliefs and knowledge about the process in order to judge the likelihood of success.&lt;/p&gt;
+&lt;p&gt;This is the way we most often assess situations and make decisions–using our existing knowledge, we come up with a subjective estimate of our odds of success or failure. A gambler may continue to play, believing that his odds of winning are higher than the mathematics of his game would suggest. In fact, the very idea of &lt;em&gt;luck&lt;/em&gt; implies a subjective bias in our assessment of chance. If you don’t believe in luck, even a decision such as choosing between two jobs relies on our subjective estimate of our chance of success in each.&lt;/p&gt;
+&lt;h3 id=&quot;the-classical-interpretation&quot;&gt;The Classical Interpretation&lt;/h3&gt;
+&lt;p&gt;These views–the frequentist and subjectivist–are not the only interpretations of probability. Prior to the nineteenth century, the &lt;em&gt;classical definition of probability&lt;/em&gt; was the dominant viewpoint.&lt;/p&gt;
+&lt;p&gt;It was an early attempt to quantify probability by mathematicians such as Pierre-Simon Laplace and Jacob Bernoulli. The theory arose from games of chance, typically involving coins or dice, and was correspondingly simple. In order to determine a probability under the classical interpretation, you would count the total number of &lt;em&gt;possible&lt;/em&gt; outcomes and the total number of &lt;em&gt;favorable&lt;/em&gt; outcomes, and find their ratio. An easy example: When attempting to roll a 3 on a six-sided die, there is one favourable outcome (rolling a 3) out of six possible outcomes, giving a probability of 1/6.&lt;/p&gt;
+&lt;p&gt;The problem, however, is that this approach assumes an equal probability for every outcome. While fine for situations such as rolling a single die, where every side can be said to have an equal chance of landing up, this assumption falls flat when dealing with more complex situations, such as having an infinite number of outcomes.&lt;/p&gt;
+&lt;p&gt;Even for a game as simple as flipping a coin until it lands on heads, this problem of infinite outcomes arises. It is not possible to count all the possible outcomes; it could happen (although it is unlikely) that no head appears even after hundreds or thousands of tosses. In such a case, we could not use the classical definition to determine the probability of success.&lt;/p&gt;
+&lt;p&gt;However, this does not necessarily imply that the definition is wrong–its uses may limited, but it does have uses.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The &lt;em&gt;frequentist&lt;/em&gt;, &lt;em&gt;subjectivist&lt;/em&gt;, and &lt;em&gt;classical&lt;/em&gt; views are but three of many interpretations of probability, each taking a different stance on the nature of uncertainty. With each interpretation, we gain insight into quantifying this uncertainty–so that we may, in some way, be more certain of our uncertainty.&lt;/p&gt;
+&lt;div class=&quot;next_post&quot;&gt;
+
+
+
+
+
+&lt;/div&gt;
+
+&lt;div class=&quot;subscribe&quot;&gt;
+  &lt;p&gt;
+Get updates about new stories through:
+&lt;/p&gt;
+  &lt;ul class=&quot;subscribe-list&quot;&gt;
+  &lt;li class=&quot;twitter&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9729;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://twitter.com/aflrd&quot;&gt;Twitter&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;email&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9993;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feedburner.google.com/fb/a/mailverify?uri=alfredk&amp;amp;loc=en_US&quot;&gt;Email&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;rss&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9178;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feeds.feedburner.com/alfredk&quot;&gt;RSS&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;references&quot;&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+&lt;p&gt;Cox, Geoff, ed. Notes Towards the Complete Works of Shakespeare. Kahve-Society, 2002.&lt;/p&gt;
+&lt;p&gt;DeGroot, Morris H., and Mark J. Schervish. Probability and Statistics. 2002. Addison-Wesley, New York, n.d.&lt;/p&gt;
+&lt;p&gt;“No Words to Describe Monkeys’ Play.” BBC, May 9, 2003, sec. Devon. &lt;a href=&quot;http://news.bbc.co.uk/2/hi/3013959.stm&quot;&gt;&lt;code class=&quot;url&quot;&gt;http://news.bbc.co.uk/2/hi/3013959.stm&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;</description>
+        <pubDate>Sat, 20 Apr 2013 00:00:00 +0000</pubDate>
+        <link>http://alfre.dk/finite-monkeys-dont-type</link>
+        <guid isPermaLink="true">http://alfre.dk/finite-monkeys-dont-type</guid>
+      </item>
+    
+      <item>
+        <title>How to Commit Tax Fraud</title>
+        <description>&lt;p&gt;In 1993, Wayne James Nelson was accused of trying to defraud the state of Arizona of $2 million. Nelson, employed by the state, wrote 23 checks to a fictitious vendor in seemingly random amounts. But his plan had a major flaw: the amounts weren’t &lt;em&gt;random enough&lt;/em&gt;.&lt;/p&gt;
+&lt;figure class=&quot;nelson_checks&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;
+Date
+&lt;/th&gt;&lt;th&gt;
+Amount
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/09
+&lt;/td&gt;&lt;td&gt;
+1927.48
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/09
+&lt;/td&gt;&lt;td&gt;
+27902.31
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/14
+&lt;/td&gt;&lt;td&gt;
+86241.90
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/14
+&lt;/td&gt;&lt;td&gt;
+72117.46
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/14
+&lt;/td&gt;&lt;td&gt;
+81321.75
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/14
+&lt;/td&gt;&lt;td&gt;
+97473.96
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+93249.11
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+89658.17
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+87776.89
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+92105.83
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+79949.16
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+87602.93
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+96879.27
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+91806.47
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+84991.67
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+90831.83
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+93766.67
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+88338.72
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+94639.49
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+83709.28
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+96412.21
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+88432.86
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+71552.16
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;figcaption&gt;The 23 checks written to a fictitious vendor&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;From just these numbers, the state deduced that the amounts had likely been faked. What makes these numbers suspicious?&lt;/p&gt;
+&lt;p&gt;To answer this, let’s take a detour into a story of two scientists, logarithms, and dirty books.&lt;/p&gt;
+&lt;h3 id=&quot;suspicious-numbers&quot;&gt;Suspicious Numbers&lt;/h3&gt;
+&lt;p&gt;Simon Newcomb was an astronomer, mathematician, and polymath living in the late nineteenth century. In those pre-calculator days, mathematicians relied on reference books like Adriaan Vlacq’s &lt;em&gt;Arithmetica Logarithmica&lt;/em&gt;. This was a book whose sole purpose was to provide pages upon pages of numbers–pre-calculated logarithms, to ten decimal places, of &lt;em&gt;every natural number from 1 to 100,000&lt;/em&gt;. (Years later, some 603 errors were found. To think that someone found these errors among the 2 million digits contained is remarkable.)&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://alfre.dk/assets/img/how-to-commit-tax-fraud/vlacq_arithmetica_logarithmica.jpg&quot; alt=&quot;The top half of a page from Vlacq’s Arithmetica Logarithmica&quot;&gt;&lt;figcaption&gt;The top half of a page from Vlacq’s &lt;em&gt;Arithmetica Logarithmica&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;One day, while perusing one of these logarithm books at the library, Newcomb noticed something peculiar–the pages were dirtiest at the beginning, and progressively became cleaner throughout.&lt;/p&gt;
+&lt;p&gt;You might not think this is a very profound discovery, and you would be right. Dirty pages are not intrinsically interesting. But Newcomb was not one of us–he was a nineteenth century mathematician. For him, this pattern of dirt was fascinating, and sparked a desire to investigate further.&lt;/p&gt;
+&lt;p&gt;He eventually found some patterns to the madness that ran deeper than the dirt on the surface. First, the dirt was not just any dirt; it was dirt from overuse and the touching of countless fingers. And it was not simply that &lt;em&gt;earlier&lt;/em&gt; pages were dirtier; instead, pages with &lt;em&gt;numbers beginning with 1&lt;/em&gt; were the dirtiest, followed by those with a starting digit of 2, then 3, and so on. The cleanest, least used pages were those with numbers beginning with 9.&lt;/p&gt;
+&lt;p&gt;This was far more interesting than a mere dirt gradient. Were scientists and mathematicians looking up numbers starting with 1 much more often than those starting with 9?&lt;/p&gt;
+&lt;h3 id=&quot;dirty-books-again&quot;&gt;Dirty Books, Again?&lt;/h3&gt;
+&lt;p&gt;Newcomb published an article about this phenomenon in 1881, even going so far as to describe a precise law for the probability that a number–any number you might find–starts with a certain digit. By his reasoning, the probability of a number beginning with a digit &lt;em&gt;d&lt;/em&gt; is given by:&lt;/p&gt;
+&lt;div class=&quot;math&quot;&gt;
+\[\operatorname{Pr}(d) = \log_{10}(1+\frac{1}{d}) \]
+&lt;/div&gt;
+
+&lt;p&gt;This implied that you would find numbers starting with the digit 1 about 30 percent of the time, and with the digit 9 a mere 4.6 percent of the time.&lt;/p&gt;
+&lt;p&gt;It was a profound theory–sadly, Newcomb’s article went largely unnoticed.&lt;/p&gt;
+&lt;p&gt;Luckily, fifty-seven years later in 1938, a physicist by the name of Frank Benford was around to ensure the obscure theory’s prosperity. In a quite literal example of history repeating itself, Benford–apparently unaware of his predecessor–made the exact same discovery as Newcomb through the &lt;em&gt;exact same observation&lt;/em&gt;. He, too, found dirtier pages at the start of logarithm books, and even derived the same formula. (Evidently, dirty pages are more interesting than we think.)&lt;/p&gt;
+&lt;p&gt;But unlike Newcomb, Benford had the means to test his theory empirically. He spent several years gathering 20,229 observations from a diverse range of data sets: baseball statistics, areas of rivers, atomic weights of elements–even arbitrary numbers plucked from &lt;em&gt;Reader’s Digest&lt;/em&gt; articles.&lt;/p&gt;
+&lt;p&gt;This mashup of all kinds of disparate data happened to be a near-perfect fit with the theory: 30.6% all the numbers in the set began with 1 (compared with an expected 30.1%), 4.7% began with 9 (4.6% expected), and the digits between appeared with gradually decreasing frequency.&lt;/p&gt;
+&lt;figure id=&quot;benford_data&quot; class=&quot;chart&quot; data-values=&quot;[[&amp;quot;Digit&amp;quot;,&amp;quot;Benford's Observations&amp;quot;],[1,0.306],[2,0.185],[3,0.124],[4,0.094],[5,0.08],[6,0.064],[7,0.051],[8,0.049],[9,0.047]]&quot;&gt;&lt;div class=&quot;no_chart&quot;&gt;
+Loading chart…
+&lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;Benford’s findings were striking. His article on the topic, unlike Newcomb’s, spread quickly through the academic world, and the peculiar phenomenon of first-digit distributions soon became known as &lt;em&gt;Benford’s law&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Perhaps Newcomb deserves more credit for discovering the law half a century earlier. Unfortunately for him, as made poignant by Stigler’s law of eponymy:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;No scientific discovery is named after&lt;br&gt;its original discoverer.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In any case, the name of the law tells us nothing about why we observe it or where it applies, which are the real puzzles here. Let’s keep digging.&lt;/p&gt;
+&lt;h3 id=&quot;newcombs-benfords-law&quot;&gt;&lt;del&gt;Newcomb’s&lt;/del&gt; Benford’s Law&lt;/h3&gt;
+&lt;p&gt;Despite many attempts by mathematicians to prove &lt;em&gt;why&lt;/em&gt; Benford’s law exists, none has been entirely successful. One promising development, however, comes from the assumption of &lt;em&gt;scale invariance&lt;/em&gt;, the idea that any universal law about digits should naturally be independent of the units used. If we convert from feet to meters, we should still see a similar distribution of first digits.&lt;/p&gt;
+&lt;p&gt;Empirically, this turns out to be true. As an example, let’s pick a random set of data–say, the masses of 618 planets in kilograms.&lt;/p&gt;
+&lt;p&gt;Here is a chart comparing the first digits of those masses against Benford’s law:&lt;/p&gt;
+&lt;figure id=&quot;planet_masses_kg&quot; class=&quot;chart&quot; data-url=&quot;http://alfre.dk/assets/data/how-to-commit-tax-fraud/planet_masses_kg.json&quot;&gt;&lt;div class=&quot;no_chart&quot;&gt;
+Loading chart…
+&lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;As we can see, the data follow Benford’s law quite well, though not perfectly. Here is another comparison using the same data, except the masses are expressed as multiples of the Earth’s mass:&lt;/p&gt;
+&lt;figure id=&quot;planet_masses_earths&quot; class=&quot;chart&quot; data-url=&quot;http://alfre.dk/assets/data/how-to-commit-tax-fraud/planet_masses_earths.json&quot;&gt;&lt;div class=&quot;no_chart&quot;&gt;
+Loading chart…
+&lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;Once more, this time expressing the planetary masses in units of &lt;em&gt;American Big Macs&lt;/em&gt; (we specify &lt;em&gt;American&lt;/em&gt; because, apparently, Big Macs vary slightly in weight across countries):&lt;/p&gt;
+&lt;figure id=&quot;planet_masses_big_mac&quot; class=&quot;chart&quot; data-url=&quot;http://alfre.dk/assets/data/how-to-commit-tax-fraud/planet_masses_big_mac.json&quot;&gt;&lt;div class=&quot;no_chart&quot;&gt;
+Loading chart…
+&lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;In this last case, we see a slightly poorer fit of the data with Benford’s law, especially for the digits 3 and 4. But, keeping in mind that our initial data in kilograms was also slightly off, this is a reasonable deviation. With a larger pool of data, we would likely have found a closer fit regardless of scale.&lt;/p&gt;
+&lt;p&gt;We should note, though, that even with this deviation, it is still quite clear that the majority of the values begin with lower digits. The similar trends across these three charts suggests that Benford’s law exhibits the properties of &lt;em&gt;scale invariance&lt;/em&gt;, and many researchers have found similar results.&lt;/p&gt;
+&lt;p&gt;So, the law appears to apply for the same dataset expressed in different units. But, this still doesn’t explain why we would see the same pattern in a large &lt;em&gt;range&lt;/em&gt; of datasets.&lt;/p&gt;
+&lt;p&gt;After all, what do baseball statistics have in common with atomic weights, or numbers found in a copy of &lt;em&gt;Reader’s Digest&lt;/em&gt;?&lt;/p&gt;
+&lt;h3 id=&quot;jurisdiction-of-the-law&quot;&gt;Jurisdiction of the Law&lt;/h3&gt;
+&lt;p&gt;Benford’s law fits with many datasets, but not all. For example, telephone numbers have a more uniform distribution of first digits, since area codes are assigned (and thus chosen to fit a certain distribution) rather than naturally occurring. But is it only artificially-created data that does not fit Benford’s law?&lt;/p&gt;
+&lt;p&gt;Unfortunately, we have no systematic method to predict if a given dataset will fit the law. Not all hope is lost, however; with some new knowledge, we can make a pretty good guess.&lt;/p&gt;
+&lt;p&gt;Ralph Raimi, a mathematician from the University of Rochester, made a keen observation: even if you start with a variety of datasets that do &lt;em&gt;not&lt;/em&gt; fit Benford’s law, the &lt;em&gt;combination&lt;/em&gt; of all of them will often lead to a close fit.&lt;/p&gt;
+&lt;p&gt;Therein lies the key: the sets of numbers that most closely follow Benford’s law are those that come from a wide range of underlying distributions.&lt;/p&gt;
+&lt;p&gt;In general, if you take random samples from random distributions, then your data will converge to fit the law.&lt;/p&gt;
+&lt;p&gt;Intuitively, you could say that the numbers contained in different articles in a &lt;em&gt;Reader’s Digest&lt;/em&gt; issue, being practically unrelated, would fit this condition almost perfectly. This is also the case with stock prices, with each company’s performance being largely independent of others.&lt;/p&gt;
+&lt;p&gt;This is a promising theory as to the nature of data that fits Benford’s law. With this in mind, we can (finally!) return to the case of Wayne James Nelson, accused of fraud by the Arizona state government.&lt;/p&gt;
+&lt;h3 id=&quot;detecting-fraud&quot;&gt;Detecting Fraud&lt;/h3&gt;
+&lt;p&gt;Let’s take another look at the amounts of the fake checks.&lt;/p&gt;
+&lt;figure class=&quot;nelson_checks&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;
+Date
+&lt;/th&gt;&lt;th&gt;
+Amount
+&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/09
+&lt;/td&gt;&lt;td&gt;
+1927.48
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/09
+&lt;/td&gt;&lt;td&gt;
+27902.31
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/14
+&lt;/td&gt;&lt;td&gt;
+86241.90
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/14
+&lt;/td&gt;&lt;td&gt;
+72117.46
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/14
+&lt;/td&gt;&lt;td&gt;
+81321.75
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/14
+&lt;/td&gt;&lt;td&gt;
+97473.96
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+93249.11
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+89658.17
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+87776.89
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+92105.83
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+79949.16
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+87602.93
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+96879.27
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+91806.47
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+84991.67
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+90831.83
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+93766.67
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+88338.72
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+94639.49
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+83709.28
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+96412.21
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+88432.86
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+1992/10/19
+&lt;/td&gt;&lt;td&gt;
+71552.16
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;Given that the checks were all made to the same vendor, we cannot, without a bit of thought, assume that Benford’s law applies based on the theory just discussed. For example, if we imagine a vendor that sells only a single product or service, we might find that its prices tend to hover around the same point. In other words, its prices may come from the same underlying distribution, which may be skewed in a way that does not conform to Benford’s law.&lt;/p&gt;
+&lt;p&gt;But we might be able to refine our guess by taking a closer look at the details of this particular case. What can we deduce?&lt;/p&gt;
+&lt;p&gt;Well, the nature of a governmental organization, such as the Arizona state government, is to purchase from larger, more mature vendors. Larger vendors will typically have a more diverse portfolio of products and services, leading to more diverse pricing schemes and price distributions. Then, in such a case, Benford’s law would be more likely to apply.&lt;/p&gt;
+&lt;p&gt;Even then, it’s still not guaranteed.&lt;/p&gt;
+&lt;p&gt;Indeed, applying Benford’s law broadly without thinking can often lead to false positives. But that’s not necessarily a bad thing; after all, you choose a tool if it fits the job. False positives are acceptable in a first-pass detection of suspicious activity–which is precisely how Arizona state accountants applied the theory to uncover Nelson’s curious checks.&lt;/p&gt;
+&lt;p&gt;Looking at the numbers, it appears that Nelson’s payments were specifically chosen to be under $100,000, a level at which human approval would have been required. If not for a broad application of Benford’s law to flag suspicious data, his checks may have passed under the radar.&lt;/p&gt;
+&lt;p&gt;And his checks are, indeed, highly suspicious. Even from a quick glance at the values, only &lt;em&gt;one&lt;/em&gt; of the twenty-three values begins with 1, yet &lt;em&gt;twenty-one&lt;/em&gt; begin with the digits 7, 8, or 9. Comparing the amounts in a proper test against Benford’s law reveals a significant mismatch.&lt;/p&gt;
+&lt;figure id=&quot;nelson_benford&quot; class=&quot;chart&quot; data-values=&quot;[[&amp;quot;Digit&amp;quot;,&amp;quot;Nelson's Checks&amp;quot;],[1,0.043],[2,0.043],[3,0],[4,0],[5,0],[6,0],[7,0.13],[8,0.391],[9,0.391]]&quot;&gt;&lt;div class=&quot;no_chart&quot;&gt;
+Loading chart…
+&lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;Again, this doesn’t necessarily indicate fraud on its own; the application of Benford’s law only served to cast a spotlight on Nelson’s activity. But once the checks were noticed, it only took a quick human investigation to realize the true nature of the payments.&lt;/p&gt;
+&lt;p&gt;You may have guessed the outcome by now. The checks were not just going to &lt;em&gt;any&lt;/em&gt; bogus vendor–&lt;em&gt;Nelson&lt;/em&gt; was the bogus vendor, and he was depositing the checks in his own bank account.&lt;/p&gt;
+&lt;p&gt;In the end, Benford’s law found the numbers suspicious, humans found the numbers fraudulent, and Nelson found himself in prison.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Thanks to a couple of mathematicians and some dirty books, tax people now have fancy ways of detecting fraud, or figuring out if you really just “accidentally” missed a few thousand dollars on your tax return.&lt;/p&gt;
+&lt;p&gt;But thanks to this story, you, too, have a new tool in your belt to help you outsmart those sneaky money grabbers–when you make up numbers, make sure a whole bunch of them start with 1.&lt;/p&gt;
+&lt;p&gt;Just remember:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you’re not going to follow the law,&lt;br&gt;at least follow Benford’s law.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;next_post&quot;&gt;
+
+
+
+&lt;p&gt;Next story: &lt;a href=&quot;http://alfre.dk/finite-monkeys-dont-type&quot;&gt;Finite Monkeys Don’t Type&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;subscribe&quot;&gt;
+  &lt;p&gt;
+Get updates about new stories through:
+&lt;/p&gt;
+  &lt;ul class=&quot;subscribe-list&quot;&gt;
+  &lt;li class=&quot;twitter&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9729;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://twitter.com/aflrd&quot;&gt;Twitter&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;email&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9993;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feedburner.google.com/fb/a/mailverify?uri=alfredk&amp;amp;loc=en_US&quot;&gt;Email&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;rss&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9178;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feeds.feedburner.com/alfredk&quot;&gt;RSS&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;references&quot;&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+&lt;p&gt;Benford, Frank. “The Law of Anomalous Numbers.” Proceedings of the American Philosophical Society 78, no. 4 (March 31, 1938): 551–572. doi:10.2307/984802.&lt;/p&gt;
+&lt;p&gt;Cleary, Richard, and Jay C. Thibodeau. “Applying Digital Analysis Using Benford’s Law to Detect Fraud: The Dangers of Type I Errors.” Auditing: A Journal of Practice &amp;amp; Theory 24, no. 1 (2005): 77–81.&lt;/p&gt;
+&lt;p&gt;“Exoplanet Orbit Database | Exoplanet Data Explorer.” Accessed April 14, 2013. &lt;a href=&quot;http://exoplanets.org/&quot;&gt;&lt;code class=&quot;url&quot;&gt;http://exoplanets.org/&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Glaisher, J. W. L. “On Errors in Vlacq’s (often Called Brigg’s or Neper’s) Tables of Ten Figure Logarithms of Numbers.” Monthly Notices of the Royal Astronomical Society 32 (May 1, 1872): 255–262.&lt;/p&gt;
+&lt;p&gt;Hill, T. P. “The First Digit Phenomenon: A Century-old Observation About an Unexpected Pattern in Many Numerical Tables Applies to the Stock Market, Census Statistics and Accounting Data.” American Scientist 86, no. 4 (July 1, 1998): 358–363. doi:10.2307/27857060.&lt;/p&gt;
+&lt;p&gt;Nigrini, Mark. “I’ve Got Your Number.” Accessed April 14, 2013. http://www.journalofaccountancy.com/issues/1999/may/nigrini.&lt;/p&gt;
+&lt;p&gt;Raimi, Ralph A. “The Peculiar Distribution of First Digits.” Scientific American 221, no. 6 (December 1969): 109–120. doi:10.1038/scientificamerican1269-109.&lt;/p&gt;
+&lt;p&gt;“Tomash Collection Images.” Accessed April 14, 2013. &lt;a href=&quot;http://www.cbi.umn.edu/hostedpublications/Tomash/Images%20web%20site/Image%20files/V%20Images/index_3.htm&quot;&gt;&lt;code class=&quot;url&quot;&gt;http://www.cbi.umn.edu/hostedpublications/Tomash/Images%20web%20site/Image%20files/V%20Images/index_3.htm&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;</description>
+        <pubDate>Fri, 12 Apr 2013 00:00:00 +0000</pubDate>
+        <link>http://alfre.dk/how-to-commit-tax-fraud</link>
+        <guid isPermaLink="true">http://alfre.dk/how-to-commit-tax-fraud</guid>
+      </item>
+    
+      <item>
+        <title>The Pleasure Center</title>
+        <description>&lt;p&gt;In 1954, two young neuropsychologists made a mistake in implanting an electrode into a rat’s brain–a mistake that led to a major discovery.&lt;/p&gt;
+&lt;p&gt;One of the two was Peter Milner, a McGill University doctorate student. At the time, he was testing a theory that rats could be motivated by stimulating the reticular formation, a section of the brain stem.&lt;/p&gt;
+&lt;p&gt;His rat subjects would run through a T-maze. Whenever the rat chose one of the two paths to take, a shock would be sent to the reticular formation. It was Milner’s hope that the rats would associate their choice with the supposedly rewarding stimulus, such that they would continue to choose the same path on future runs.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://alfre.dk/assets/img/the-pleasure-center/t-maze.jpg&quot; alt=&quot;In a T-maze, a rat can choose one of two paths.&quot;&gt;&lt;figcaption&gt;In a T-maze, a rat can choose one of two paths.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;In any case, Milner didn’t find much success in his experiment. Rather than turn towards the path on which they received the stimulation, the rats unanimously &lt;em&gt;avoided&lt;/em&gt; that side. Evidently, the stimulation evoked some negative feeling rather than arousal, as Milner had hoped.&lt;/p&gt;
+&lt;h3 id=&quot;the-young-olds&quot;&gt;The Young Olds&lt;/h3&gt;
+&lt;p&gt;It was around that time that Milner was introduced to James Olds, a young social psychologist from Harvard with an interest in studying the brain; he was looking for someone like Milner to help him get started in the field.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://alfre.dk/assets/img/the-pleasure-center/james_olds.jpg&quot; alt=&quot;James Olds&quot;&gt;&lt;figcaption&gt;James Olds&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;But Olds’ social psychological background was quite far removed from the physiological psychology of Milner’s lab, and Milner was skeptical that this new recruit could be of much use. Nevertheless, he gave it a try.&lt;/p&gt;
+&lt;p&gt;Olds turned out to be a brilliantly quick learner–within a week of being given a rat-brain atlas and anatomy book, his knowledge of the rat brain trumped even that of Milner himself. Soon, he was given the task of implanting the electrodes into the rats’ brains, following Milner’s directions.&lt;/p&gt;
+&lt;p&gt;This method of implanting the electrode, however, was a delicate procedure requiring steady hands and patience. Although it produced reasonably consistent results, it was a long process without much room for error.&lt;/p&gt;
+&lt;p&gt;After practicing with a few electrodes, Olds was competent enough to perform the operation independently. But in this independence, he made a few adjustments to the strict procedure–he used heavier gauge wire, and did not wait as long for the electrode’s adhesive to set completely before bending its wires into the desired orientation. These may have seemed like harmless adjustments at the time, but small changes to delicate procedures are not always so innocent.&lt;/p&gt;
+&lt;h3 id=&quot;a-curious-rat&quot;&gt;A Curious Rat&lt;/h3&gt;
+&lt;p&gt;It was with one of Olds’ rats that something very peculiar happened. When stimulated, this rat would immediately step forward, sniffing and searching as it moved. As soon as the stimulus was cut off, it returned to its normal behavior, or sometimes even stepped back. This was in stark contrast to all the previous rats they tested–they could control its movement by giving a short burst of stimulation whenever it turned in a certain direction. At a time when Milner was becoming discouraged at his lack of results, this obedient rat rekindled his hope.&lt;/p&gt;
+&lt;p&gt;Attempting to discover what made the rat behave this way, Milner and Olds set up a new experiment. Rather than controlling the stimulus themselves, the two scientists devised a method to allow the rat to activate the stimulus on its own. If the rat would administer the stimulus on its own when not under external influence, they would conclude that the rat was deliberately seeking out the brain stimulation; this would imply that the stimulus was intrinsically arousing or rewarding for the rat.&lt;/p&gt;
+&lt;p&gt;And indeed it was. Even when the lever to activate the stimulus was awkwardly positioned such that the rat had trouble manipulating it, the rat was persistent. This was a surprising phenomenon that led to important questions: Was the rat entirely subservient to this stimulus? Could its behavior be completely controlled simply by stimulating a particular area of its brain?&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://alfre.dk/assets/img/the-pleasure-center/self-stimulation.jpg&quot; alt=&quot;The self-stimulation experiment: a rat reaches eagerly for a switch to activate stimulation&quot;&gt;&lt;figcaption&gt;The self-stimulation experiment: a rat reaches eagerly for a switch to activate stimulation&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3 id=&quot;one-of-a-kind&quot;&gt;One of a Kind&lt;/h3&gt;
+&lt;p&gt;In trying to answer these questions, the scientists hit a snag–they couldn’t replicate the behavior in other rats. They had only one rat that behaved this way, and Olds was naturally concerned that this was a one-time phenomenon they would never witness again. (Because of this concern, he took a video of the event, although the video has been lost to history.)&lt;/p&gt;
+&lt;p&gt;After many more failed attempts, Milner started to suspect that perhaps the electrode was not in its intended position; perhaps it was implanted incorrectly or had shifted at some point. But there was no way Olds was willing to sacrifice their only good rat to determine the location of the electrode.&lt;/p&gt;
+&lt;p&gt;Luckily, there were other means at the time, and one of the other scientists in the lab had the brilliant idea of taking an x-ray. What they found was that the electrode had indeed been displaced several millimetres away from the reticular formation, and was instead in contact with the hypothalamus. It may have been Olds’ usage of higher gauge wire that required more pressure to bend, or maybe it was the way Olds bent the wires before the electrode’s adhesive had time to fully set. Either way, it was clear that the electrode was not where they expected, and its new position in contact with the hypothalamus caused some kind of highly arousing sensation in the rat.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://alfre.dk/assets/img/the-pleasure-center/electrode_xray.jpg&quot; alt=&quot;X-ray of an electrode implanted in a rat’s brain&quot;&gt;&lt;figcaption&gt;X-ray of an electrode implanted in a rat’s brain&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3 id=&quot;pleasure-and-reward&quot;&gt;Pleasure and Reward&lt;/h3&gt;
+&lt;p&gt;For the next few years in further experiments, Olds set out to pinpoint the precise brain areas responsible for inducing this strange sensation in the rats. Although he called these areas “pleasure centers,” we do not know what the rats truly feel when stimulated, or whether their feeling is at all analogous to our concept of “pleasure” (but it is certainly an appealing concept). Taking that into consideration, today’s scientists prefer to speak of “reward centers” rather than “pleasure centers”.&lt;/p&gt;
+&lt;p&gt;He set up an experiment, similar to the earlier one that led to the discovery in the first place, in which rats were able to self-administer a shock to a part of their brain by pushing a lever. Depending on where the electrode was attached, the rats showed a wide range of responses. Olds found some areas (small areas in the mid-brain and adjacent sections of the thalamus and hypothalamus) that when stimulated, produced an avoidance response in the rats. Other areas (such as the posterior and anterior hypothalamus) instead produced the arousing sensation.&lt;/p&gt;
+&lt;p&gt;In some cases, the sensation was evidently very intense–some rats would press the lever as many as 7000 times per hour until collapsing from exhaustion.&lt;/p&gt;
+&lt;p&gt;This drive for self-stimulation was even greater than that of hunger. In a subsequent experiment, Olds found that rats would cross a highly electrified floor to receive the stimulation–a floor that even rats starved for 24 hours would not cross for food.&lt;/p&gt;
+&lt;p&gt;Here is a more “modern” (if we can call it that) video, based on the work of Milner and Olds, showing the highly detrimental behavior in rats that results from self-stimulation:&lt;/p&gt;
+&lt;figure class=&quot;video&quot;&gt;
+  &lt;div class=&quot;embed-wrap embed-4-3 chrome-25&quot;&gt;
+    &lt;iframe src=&quot;http://www.youtube.com/embed/aNXhyPj-RsM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Rats, evidently, can be controlled entirely through electrical signals sent directly to the brain. This makes us wonder: What about humans?&lt;/p&gt;
+&lt;h3 id=&quot;human-pleasure&quot;&gt;Human Pleasure&lt;/h3&gt;
+&lt;p&gt;Do we humans also have “reward centers” in our brains?&lt;/p&gt;
+&lt;p&gt;Yes, we do. But, perhaps fortunately, stimulation to our reward centers does not necessarily lead to a frenzy similar to the rats.&lt;/p&gt;
+&lt;p&gt;In a highly controversial experiment by Robert Heath in the 1950s, patients with violent tendencies had electrodes implanted in their brains in the hopes that stimulation would calm them down. Patients reported mild euphoric or pleasant feelings in response to the stimulus, but nothing close to the intense sensation that drove the rats to extreme behavior and exhaustion. These experiments were not specifically looking for areas of pleasurable brain stimulation, however, so it may be the case that targeting other areas or combinations of areas would result in a more intense sensation.&lt;/p&gt;
+&lt;p&gt;Either way, even without direct neural stimulation, we may still be susceptible to behavior analogous to that of the rat, continuously pushing a lever for more self-stimulation. Indeed, some scientists believe that &lt;em&gt;addictions&lt;/em&gt; (such as alcohol or drug abuse) result from a &lt;em&gt;reward deficiency syndrome&lt;/em&gt;, in which a deficiency in the brain’s reward centers results in a constant craving for relief in the form of substance abuse.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The concept of reward centers has fascinating implications for future research and technology. In an extreme case, some people believe that direct stimulation of these areas–or what they call &lt;em&gt;wireheading&lt;/em&gt;–is key to eliminating negative emotion entirely from the world (whether or not that is a desirable state is up for debate). Supporters of this future scenario like to point out that, at a meeting of the Society for Neuroscience in 2005, the Dalai Lama is reported to have said:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If it was possible to become free of negative emotions by a riskless implementation of an electrode–without impairing intelligence and the critical mind–I would be the first patient.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Even if this never becomes possible, this illustrates the enormous potential that lies in future brain research; there is still much to learn and discover.&lt;/p&gt;
+&lt;p&gt;I just hope that, in our quest to harness the brain–given our pleasure-seeking tendencies–we do not end up like the rat: in a continuous cycle of self-stimulation, addiction, and eventual exhaustion.&lt;/p&gt;
+&lt;div class=&quot;next_post&quot;&gt;
+
+
+
+&lt;p&gt;Next story: &lt;a href=&quot;http://alfre.dk/how-to-commit-tax-fraud&quot;&gt;How to Commit Tax Fraud&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;subscribe&quot;&gt;
+  &lt;p&gt;
+Get updates about new stories through:
+&lt;/p&gt;
+  &lt;ul class=&quot;subscribe-list&quot;&gt;
+  &lt;li class=&quot;twitter&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9729;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://twitter.com/aflrd&quot;&gt;Twitter&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;email&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9993;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feedburner.google.com/fb/a/mailverify?uri=alfredk&amp;amp;loc=en_US&quot;&gt;Email&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;rss&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9178;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feeds.feedburner.com/alfredk&quot;&gt;RSS&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;references&quot;&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+&lt;p&gt;“A World Without Suffering?” Accessed April 8, 2013. &lt;a href=&quot;http://ieet.org/index.php/IEET/more/dvorsky20090502&quot;&gt;&lt;code class=&quot;url&quot;&gt;http://ieet.org/index.php/IEET/more/dvorsky20090502&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Baumeister, Alan. “The Tulane Electrical Brain Stimulation Program A Historical Case Study in Medical Ethics.” Journal of the History of the Neurosciences 9, no. 3 (2000): 262–278. doi:10.1076/jhin.9.3.262.1787.&lt;/p&gt;
+&lt;p&gt;Blum, Kenneth, John G. Cull, Eric R. Braverman, and David E. Comings. “Reward Deficiency Syndrome.” American Scientist 84, no. 2 (March 1, 1996): 132–145. doi:10.2307/29775633.&lt;/p&gt;
+&lt;p&gt;“James Olds, May 30, 1922—August 21, 1976 | By Richard F. Thompson | Biographical Memoirs.” Accessed April 8, 2013. &lt;a href=&quot;http://www.nap.edu/readingroom.php?book=biomems&amp;amp;page=jolds.html&quot;&gt;&lt;code class=&quot;url&quot;&gt;http://www.nap.edu/readingroom.php?book=biomems&amp;amp;page=jolds.html&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Milner, Peter M. “The Discovery of Self-stimulation and Other Stories.” Neuroscience &amp;amp; Biobehavioral Reviews 13, no. 2–3 (Summer 1989): 61–67. doi:10.1016/S0149-7634(89)80013-2.&lt;/p&gt;
+&lt;p&gt;Motivation: Self-Stimulation in Rats, 2010. &lt;a href=&quot;http://www.youtube.com/watch?v=aNXhyPj-RsM&amp;amp;feature=youtube_gdata_player&quot;&gt;&lt;code class=&quot;url&quot;&gt;http://www.youtube.com/watch?v=aNXhyPj-RsM&amp;amp;feature=youtube_gdata_player&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Olds, James. “Self-Stimulation of the Brain.” Science 127, no. 3294 (February 14, 1958): 315–324. doi:10.2307/1754983.&lt;/p&gt;
+&lt;p&gt;Olds, James, and Peter Milner. “Positive Reinforcement Produced by Electrical Stimulation of Septal Area and Other Regions of Rat Brain.” J Comp Physiol Psychol 47, no. 6 (1954): 419–427.&lt;/p&gt;
+&lt;/div&gt;</description>
+        <pubDate>Mon, 08 Apr 2013 00:00:00 +0000</pubDate>
+        <link>http://alfre.dk/the-pleasure-center</link>
+        <guid isPermaLink="true">http://alfre.dk/the-pleasure-center</guid>
+      </item>
+    
+      <item>
+        <title>Boy Turned Girl Turned Boy</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://alfre.dk/assets/img/boy-turned-girl-turned-boy/david_reimer_2.jpg&quot; alt=&quot;David Reimer&quot;&gt;&lt;br&gt; David Reimer was born in 1965 as a boy named Bruce. He had an identical twin, Brian. After a botched circumcision at the age of eight months, David’s parents decided to raise him as a girl at the advice of psychologist John Money.&lt;/p&gt;
+&lt;p&gt;A mishap during the circumcision–where doctors were using the unconventional method of cauterization–had left Bruce’s penis burned beyond repair. Concerned about their child’s future, Mr. and Mrs. Reimer were referred to Dr. Money, the world’s leading expert on gender identity at the time.&lt;/p&gt;
+&lt;p&gt;Money was a strong proponent of “gender neutrality”, the theory that a child’s gender identity develops primarily through culture and experiences rather than genetics. In his mind, gender was a socially constructed phenomenon–children would learn to associate themselves with one gender or the other depending on their social influences during childhood.&lt;/p&gt;
+&lt;p&gt;He had recommended a surgical sex change for Bruce, convincing the parents that it would be their best chance at giving their child a relatively normal life. Following his advice, Bruce was renamed Brenda, and the parents took on the formidable task of raising their once-male child as a girl.&lt;/p&gt;
+&lt;p&gt;This was an unprecedented experiment–nothing like this had ever been attempted before on an otherwise developmentally-normal child. From a scientific point of view, this was also the perfect experimental test of the influence of genetics versus upbringing–Brenda’s identical twin Brian was a nearly flawless control, sharing not only genes but a common family environment as well.&lt;/p&gt;
+&lt;p&gt;No one was certain how the experiment would turn out, but Dr. Money, given his interest in the area, was extremely confident in its success.&lt;/p&gt;
+&lt;h3 id=&quot;the-unseen-experiments&quot;&gt;The Unseen Experiments&lt;/h3&gt;
+&lt;p&gt;Dr. Money’s interest in testing his theories had some bizarre implications that some outsiders might consider to be borderline criminal.&lt;/p&gt;
+&lt;p&gt;He believed that one of the keys to developing a “healthy adult gender identity” was to expose the twins to pornography at a young age. As such, during his therapy sessions, he would show the twins images of nude children–both boys and girls–as well as adults engaged in sexual acts.&lt;/p&gt;
+&lt;p&gt;But Dr. Money went further than that, pushing the boundaries of what could be considered therapy. Another of his theories was that something he called “sexual rehearsal play” was important for gender development–for the twins, it meant that they would be imitating sexual situations appropriate to their “desired” gender.&lt;/p&gt;
+&lt;p&gt;At the age of six, the twins were made to practice “thrusting movements and copulation” by, for example, getting Brenda to “assume a position on all fours” as Brian placed his crotch against her buttocks from behind. Other times, Brenda was forced to lie on her back, legs spread wide, with Brian lying on top of her. On at least one occasion, Dr. Money took Polaroid photographs of the twins in these positions.&lt;/p&gt;
+&lt;p&gt;Of course, none of these highly sexual therapy sessions were run in the presence of Mr. and Mrs. Reimer.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Through the 1970s, Dr. Money published his findings as he continued to observe the twins’ development. His reports always indicated the same result–that the sexual reassignment was a major success. According to Money, both Brian and Brenda were happily living and acting in ways appropriate to their assigned genders.&lt;/p&gt;
+&lt;p&gt;His results were widely accepted and seen as revolutionary throughout the field of psychology. Textbooks were rewritten to include a story about Bruce’s successful sexual reassignment, and Dr. Money was featured in &lt;em&gt;Time&lt;/em&gt; magazine for his groundbreaking experiment. As his fame grew, so did the acceptance of his theories, and the popularity of sexual reassignment procedures soared.&lt;/p&gt;
+&lt;h3 id=&quot;the-other-side-of-the-coin&quot;&gt;The Other Side of the Coin&lt;/h3&gt;
+&lt;p&gt;It was not until nearly thirty years later that the reality was known, when David–outraged that stories of his supposed success were legitimizing the practice of sex reassignment–decided to tell his story.&lt;/p&gt;
+&lt;p&gt;David’s childhood, as Brenda, was fraught with difficulty, frustration, and depression. Starting from the age of two, an age at which infants are still barely capable of any kind of abstract thought, Brenda rejected her femininity. She tore off her dresses, tossed aside her dolls, and fought physically with her brother over toy cars and guns. Throughout school, she was bullied mercilessly for her peculiar masculine traits. When she complained to her teachers and parents that she felt like a boy, she was simply told–under Dr. Money’s orders–that it was a phase that would eventually pass.&lt;/p&gt;
+&lt;p&gt;But that phase never passed. At the age of 14, exhibiting serious signs of suicidal depression, her parents became convinced that Brenda should learn the truth behind her internal conflict. It was on the way home from a therapy session one afternoon that her father–taking her on a suspicious detour to get ice cream–broke the news.&lt;/p&gt;
+&lt;p&gt;As David recalled years later, it was at that moment that everything suddenly became clear, finally realizing that he was not meant to be a girl. At last, he understood the reason for his struggles, and became determined to regain control of his gender identity–he decided he would live as a boy.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://alfre.dk/assets/img/boy-turned-girl-turned-boy/david_reimer.jpg&quot; alt=&quot;David Reimer&quot;&gt;&lt;figcaption&gt;David Reimer&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3 id=&quot;boy-turned-girl-turned-boy&quot;&gt;Boy Turned Girl Turned Boy&lt;/h3&gt;
+&lt;p&gt;For years after this decision, he would endure several surgeries and testosterone injections to try to undo the changes that had been made to his gender through his childhood. And it was during this time that–seeing in his situation a colossal struggle to overcome the forces against him–he named himself David, after the biblical character who vanquished the mighty Goliath.&lt;/p&gt;
+&lt;p&gt;But his quest to repair his gender identity left him in a constant state of depression. His surgically constructed penis was not quite functional, and he knew he would never be able to have children. And despite his new life as a boy–and a handsome one at that, attracting a good deal of female attention–he had not the confidence to take relationships very far due to his impotence.&lt;/p&gt;
+&lt;p&gt;He attempted suicide twice; one time, finding him unconscious from an overdose of antidepressants, his guilt-ridden parents debated for a few moments whether they should even save him or allow him to end his misery.&lt;/p&gt;
+&lt;p&gt;One positive highlight of his life came in 1988, when he met his soon-to-be wife, Jane Fontaine, an acquaintance of his twin brother. She knew from the start about his condition, but it did not bother her–she was looking for love, not lust. They quickly fell for each other, and by the end of 1990, they were married.&lt;/p&gt;
+&lt;p&gt;The years following the marriage were anything but easy. Misfortunes piled on misfortunes, leading David on a long spiral down into insecurity and depression.&lt;/p&gt;
+&lt;p&gt;David often had sudden bursts of anger due to his memories of childhood and long-ago therapy sessions with Dr. Money. He was conned out of $65,000 through a shady investment in a golf course. He was insecure in his marriage, fearing that Jane would leave him. He lost his full-time job and lived on money from a book deal and a prior settlement over his botched circumcision. Over the years, his twin brother developed schizophrenia and in 2002, died from an overdose of antidepressants.&lt;/p&gt;
+&lt;p&gt;But the final straw came fourteen years after the marriage when Jane, growing frustrated with David’s increasing emotional distance and uncontrollable emotions, asked if they could separate for some time. Though she assured him she was not looking for a divorce–as she still loved him–his pent-up insecurity and feelings of inadequacy were overwhelming, and he stormed out of the house.&lt;/p&gt;
+&lt;p&gt;Several days later, David was found in a grocery store’s parking lot, dead, where he had shot himself in the head with a sawed-off shotgun.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Could this tragedy have been prevented? What was the cause of David’s gender crisis? Was it merely genetics that caused Brenda to reject her female role?&lt;/p&gt;
+&lt;p&gt;Genetics certainly played a significant part, but it cannot be said that David’s upbringing played no role. After all, there was the trauma of his therapy sessions and the incessant bullying–it would not be unreasonable to think that these events contributed to his sense that he did not exactly fit in the role he was given.&lt;/p&gt;
+&lt;p&gt;It was perhaps the combination of all these extreme forces, in nature and in nurture, that conspired to create the precise set of inescapable misfortunes in David’s life. In the words of psychologist David Myers, “What biology initiates, culture accentuates”. And so it was that David, born a boy, struggled to remain a boy in the face of rejection as a girl.&lt;/p&gt;
+&lt;p&gt;But the question remains: is there any combination of environmental factors that could have allowed this boy to grow up happily as a girl?&lt;/p&gt;
+&lt;p&gt;In this particular case, it seems rather unlikely, given that he rebelled against his assigned gender even at a mere two years of age. But for other boys more predisposed to femininity (or girls more predisposed to masculinity), it may be possible with a suitably supportive environment. After all, we now see plenty of cases of people who, despite being born biologically into one gender, desire to be members of the other.&lt;/p&gt;
+&lt;p&gt;In fact, in a study of fourteen boys who had undergone sex-reassignment surgery during the height of Dr. Money’s fame, five were comfortably living as girls (six identified themselves as males, and the remaining three were uncertain).&lt;/p&gt;
+&lt;p&gt;We have learned a painful lesson from David Reimer’s story, now cited in the updated textbooks of today’s psychology students: nature can sometimes be a force stronger than nurture–and in those instances, that force is best not tampered with.&lt;/p&gt;
+&lt;div class=&quot;next_post&quot;&gt;
+
+
+
+&lt;p&gt;Next story: &lt;a href=&quot;http://alfre.dk/the-pleasure-center&quot;&gt;The Pleasure Center&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;subscribe&quot;&gt;
+  &lt;p&gt;
+Get updates about new stories through:
+&lt;/p&gt;
+  &lt;ul class=&quot;subscribe-list&quot;&gt;
+  &lt;li class=&quot;twitter&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9729;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://twitter.com/aflrd&quot;&gt;Twitter&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;email&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9993;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feedburner.google.com/fb/a/mailverify?uri=alfredk&amp;amp;loc=en_US&quot;&gt;Email&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;rss&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9178;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feeds.feedburner.com/alfredk&quot;&gt;RSS&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;references&quot;&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+&lt;p&gt;Colapinto, John. As Nature Made Him: The Boy Who Was Raised as a Girl. Harper Perennial, 2001.&lt;/p&gt;
+&lt;p&gt;Reiner, William G., and John P. Gearhart. “Discordant Sexual Identity in Some Genetic Males with Cloacal Exstrophy Assigned to Female Sex at Birth.” New England Journal of Medicine 350, no. 4 (2004): 333–341. doi:10.1056/NEJMoa022236.&lt;/p&gt;
+&lt;/div&gt;</description>
+        <pubDate>Fri, 05 Apr 2013 00:00:00 +0000</pubDate>
+        <link>http://alfre.dk/boy-turned-girl-turned-boy</link>
+        <guid isPermaLink="true">http://alfre.dk/boy-turned-girl-turned-boy</guid>
+      </item>
+    
+      <item>
+        <title>Monkeys Washing Potatoes</title>
+        <description>&lt;h3 id=&quot;do-animals-have-culture&quot;&gt;Do Animals Have Culture?&lt;/h3&gt;
+&lt;p&gt;Well, here’s a little story about monkeys washing potatoes.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://alfre.dk/assets/img/monkeys-washing-potatoes/macaque_potato.jpg&quot; alt=&quot;Monkeys washing potatoes&quot;&gt;&lt;figcaption&gt;Monkeys washing potatoes&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;On the Japanese island of Koshima, there lived a tribe of macaque monkeys. It was the early 1950s, and a group of scientists had arrived on the island to study these curious creatures.&lt;/p&gt;
+&lt;p&gt;One day, a young female macaque named Imo (the Japanese word for potato) decided to start dipping her sweet potatoes into a nearby river before eating them. Her reason was simple and entirely reasonable: she saw sand on the potatoes and wanted to wash it off. Yet, none of the older and more mature monkeys had thought of doing this before–they would only brush off the sand with their hands.&lt;/p&gt;
+&lt;p&gt;Imo’s brothers and sisters saw her performing this unfamiliar cleansing ritual. Being monkeys, they began to ape her actions, plunging their own potatoes into the river. Soon, her mother followed suit. Evidently, this monkey family had discovered the joys of eating clean potatoes.&lt;/p&gt;
+&lt;p&gt;What the scientists observed over the next few years was a dramatic change in potato-consuming behavior throughout the island. The practice of potato washing spread rapidly through the entire macaque colony, and within a decade, every capable macaque on the island was washing potatoes.&lt;/p&gt;
+&lt;p&gt;But it was not only the technique of potato washing that the monkeys learned. At some point during those years of monkey-to-monkey knowledge sharing, Imo discovered a second hack to make her potato consumption more pleasurable–by dipping her potatoes in the ocean instead of the river, the saltwater would season the potato and make it taste better. After each bite, she would dip the freshly exposed section of her potato back into the ocean to enhance its flavor. This habit spread just as quickly through the macaque community.&lt;/p&gt;
+&lt;p&gt;These practices of potato washing and dipping were passed down for generations. To this day, though none of the original macaques are still alive, the monkeys of Koshima now enjoy clean, flavor-enhanced potatoes.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://alfre.dk/assets/img/monkeys-washing-potatoes/japanese_macaque.jpg&quot; alt=&quot;Do monkeys have culture?&quot;&gt;&lt;figcaption&gt;Do monkeys have culture?&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3 id=&quot;the-culture-of-animals&quot;&gt;The Culture of Animals&lt;/h3&gt;
+&lt;p&gt;Are these potato-consuming habits merely a group-specific behavior, or can it be considered the “culture” of the monkeys?&lt;/p&gt;
+&lt;p&gt;In 1971, Hans Kummer made a keen observation that species adapt to their environment primarily through two processes: &lt;em&gt;phylogenetic adaptation&lt;/em&gt;, a gradual evolution of the species at the genetic level, and &lt;em&gt;adaptive modification&lt;/em&gt;, the adaptation of an individual member of the species to its current environment.&lt;/p&gt;
+&lt;p&gt;The latter, &lt;em&gt;adaptive modification&lt;/em&gt;, can arise as a result of ecological factors such as climate change or an increase in predators. Alternatively, a species may adapt due to social factors–adapting due to the influence of others in the animal’s social group. Then, Kummer suggests that if a species exhibits unique changes in behavior due to social factors, the result can be considered a form of culture.&lt;/p&gt;
+&lt;p&gt;This fits perfectly with the story of the monkeys above. However, when the story was originally published, many anthropologists and psychologists were uncomfortable with labelling their new behavior as “culture”. These critics saw the behavior of the monkeys as nothing remotely close to our own sense of &lt;em&gt;human culture&lt;/em&gt;; after all, we humans have our many languages, customs, local cuisines, and art, all of which would be considered aspects of culture far beyond this single behavioral change seen in the monkeys.&lt;/p&gt;
+&lt;p&gt;One might see this as mere linguistic nit-picking, as the boundaries of the term &lt;em&gt;culture&lt;/em&gt; are not exactly clear. But after a landmark study was published in &lt;em&gt;Nature&lt;/em&gt; in 1999 describing the localized habits and behaviors of chimpanzees in seven separate environments, even critics found it difficult to disagree with the notion that chimpanzees exhibit behavioral patterns similar to what we consider human culture.&lt;/p&gt;
+&lt;p&gt;This study, by Andrew Whiten and his colleagues, discovered 39 unusual habits specific to certain monkey populations where the catalyst was found to be social rather than ecological adaptation. These were habits that included patterns of tool usage, grooming and courtship behaviors, and meal-time activities. For example, some populations would catch ants on a short stick and eat them one by one. Others, on the other hand, had discovered a more efficient technique of catching ants on a longer stick, many at a time, and sweeping them all into the mouth at once.&lt;/p&gt;
+&lt;p&gt;Some populations picked their nostrils with sticks. Some cracked open hard-shelled foods by smashing them onto wood; others used stone. Some monkeys would even dance at the start of a rainfall.&lt;/p&gt;
+&lt;p&gt;These are habits that almost certainly did not derive from genetics; it would be difficult to imagine that evolutionary pressure would cause a monkey to dance in the rain or change the way she fishes for ants. Further, Whiten found significant behavioral differences even in two populations of the same species living apart, providing evidence against any genetic explanation for their habits.&lt;/p&gt;
+&lt;p&gt;The evidence overwhelmingly points to the idea that chimpanzees are not only highly capable of &lt;em&gt;creating&lt;/em&gt; new customs and behaviors, but spreading them through their social nature. It is, in this way, that we see the “culture” of monkeys–a method of passing on habits and customs not so different from the way human culture develops.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;When we think of culture, we nearly always think of &lt;em&gt;human&lt;/em&gt; culture. But we are not unique nor alone in our ability to develop peculiar social behaviors. In fact, we hardly need to look beyond ourselves to find other animals who, like us, can learn from one another, develop new customs and practices, and pass their knowledge on to future generations.&lt;/p&gt;
+&lt;p&gt;As humans, it is always humbling to realize that we are not so different from the animals around us because we, too, are only animals.&lt;/p&gt;
+&lt;div class=&quot;next_post&quot;&gt;
+
+
+
+&lt;p&gt;Next story: &lt;a href=&quot;http://alfre.dk/boy-turned-girl-turned-boy&quot;&gt;Boy Turned Girl Turned Boy&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;subscribe&quot;&gt;
+  &lt;p&gt;
+Get updates about new stories through:
+&lt;/p&gt;
+  &lt;ul class=&quot;subscribe-list&quot;&gt;
+  &lt;li class=&quot;twitter&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9729;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://twitter.com/aflrd&quot;&gt;Twitter&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;email&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9993;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feedburner.google.com/fb/a/mailverify?uri=alfredk&amp;amp;loc=en_US&quot;&gt;Email&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;rss&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9178;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feeds.feedburner.com/alfredk&quot;&gt;RSS&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;references&quot;&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+&lt;p&gt;De Waal, Frans B. M. “Cultural Primatology Comes of Age.” Nature 399, no. 6737 (June 17, 1999): 635–636. doi:10.1038/21310.&lt;/p&gt;
+&lt;p&gt;Van Lawick-Goodall, Jane. “Cultural Elements in a Chimpanzee Community.” Precultural Primate Behavior (1973): 144–184.&lt;/p&gt;
+&lt;p&gt;Whiten, A., J. Goodall, W. C. McGrew, T. Nishida, V. Reynolds, Y. Sugiyama, C. E. G. Tutin, R. W. Wrangham, and C. Boesch. “Cultures in Chimpanzees.” Nature 399, no. 6737 (June 17, 1999): 682–685. doi:10.1038/21415.&lt;/p&gt;
+&lt;/div&gt;</description>
+        <pubDate>Wed, 03 Apr 2013 00:00:00 +0000</pubDate>
+        <link>http://alfre.dk/monkeys-washing-potatoes</link>
+        <guid isPermaLink="true">http://alfre.dk/monkeys-washing-potatoes</guid>
+      </item>
+    
+      <item>
+        <title>How to Make a Pet Fox</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://alfre.dk/assets/img/how-to-make-a-pet-fox/beautiful-fox.jpg&quot; alt=&quot;Domesticated Fox&quot;&gt;&lt;br&gt; For over 50 years, Dmitry Belyaev and his successors selectively bred wild foxes to make them friendlier toward humans. In essence, they wanted to create a domesticated fox.&lt;/p&gt;
+&lt;p&gt;It began in the Soviet Union during the 1950s. The director of Soviet biology at the time, under the rule of Joseph Stalin, was Trofim Lysenko, a staunch opposer of Mendelian genetics. Under his direction, genetics research was outlawed and became widely viewed as a “fake science”.&lt;/p&gt;
+&lt;p&gt;Two biologists, Dmitry Belyaev and his older brother Nikolay, did not share this view. For them, genetics was a field that held enormous potential. Of course, it was painfully obvious to the two that pursuing research in the area would require them to skirt around the law, but they were undeterred and did so regardless. This boldness, however, came at a high cost when their activities were discovered: Belyaev lost his job, and Nikolay was taken to a labor camp where he lost his life.&lt;/p&gt;
+&lt;p&gt;Despite these incidents, Belyaev persevered. He performed his experiments in secret, claiming he was conducting research in animal physiology. He sought answers to a peculiarity of evolution: why do animals of different species appear to develop similar characteristics as they become domesticated?&lt;/p&gt;
+&lt;p&gt;Charles Darwin made this observation long ago, that domestication appeared to evoke similar changes in animals–changes such as rolled tails, shortened tails and legs, floppy ears, and piebald coat patterns. The puzzle for Belyaev, now, was to find out &lt;em&gt;how&lt;/em&gt; it could be that, despite undergoing entirely disparate domestication processes, the same physical changes appeared. He hypothesized that it was a result of selecting for a broad trait, some measure of “amenability to domestication”, which would affect high-level genes that govern both behavior and developmental processes. This, in turn, would result in the physical changes we observe.&lt;/p&gt;
+&lt;p&gt;This would turn out to be a difficult puzzle to solve. Remember–this took place in the 1950s, when genome sequencing was hardly even a concept. Belyaev could not directly examine or compare the genes of wolves and dogs.&lt;/p&gt;
+&lt;p&gt;Instead, he decided to take a far-fetched approach that would span generations–generations of foxes, that is. For the last 26 years of his life, he would be breeding wild foxes in an attempt to manually induce evolution and domestication through an artificial selection process. Through evolution, he thought, he could determine whether this animal–which had never been domesticated before–would undergo the same changes as the others.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://alfre.dk/assets/img/how-to-make-a-pet-fox/belyaev_1984.jpg&quot; alt=&quot;Belyaev with his foxes&quot;&gt;&lt;figcaption&gt;Belyaev with his foxes&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3 id=&quot;evolution-of-a-fox&quot;&gt;Evolution of a Fox&lt;/h3&gt;
+&lt;p&gt;After gathering 30 male foxes and 100 vixens, Belyaev was ready to begin his experiment. In each generation, he selected foxes based solely on “tameness”, measured through a series of tests of approachability, tendency to bite, and calmness in the presence of humans. Selection was strict–only about 5 percent of males and 20 percent of females were permitted to breed.&lt;/p&gt;
+&lt;p&gt;Foxes were assigned to one of three categories based on their tameness: Class III foxes were the least domesticated, running from experimenters or biting when approached; Class II foxes would appear indifferent to experimenters, neither fleeing nor displaying affection; Class I foxes were friendly toward experimenters, wagging their tails and whining.&lt;/p&gt;
+&lt;p&gt;But changes appeared much sooner than Belyaev had ever anticipated. After just six generations, a new category had to be added to account for the sudden development of even friendlier foxes. Class IE, it was called, was reserved for the “domesticated elite”, foxes not only tame but &lt;em&gt;eager&lt;/em&gt; to interact with humans, whimpering for attention and licking experimenters’ faces.&lt;/p&gt;
+&lt;p&gt;Within eight to ten generations, spanning about ten years, the physical changes associated with domestication were already becoming apparent. The foxes had floppy ears, rolled tails, and new coat colors–most notably, a loss of pigment in parts of the body (the piebald pattern) and in some cases, a star-shaped pattern on the face similar to some dogs. Eighteen percent of the foxes at this point were members of Class IE.&lt;/p&gt;
+&lt;p&gt;Another eight to ten generations later, the foxes developed shorter tails, shorter legs, overbites, and underbites. By then, 35 percent were considered elite.&lt;/p&gt;
+&lt;p&gt;Unfortunately, around 25 years into his long-running experiment, Belyaev passed away. Fortunately, Lyudmila Trut, a researcher who once worked under him as a graduate student, was ready to take over. Under her direction, the foxes continued to evolve; 40 generations and 45,000 foxes after the start of the experiment, she now had a special population of 100 foxes, of which 70 to 80 percent made up the “domesticated elite”.&lt;/p&gt;
+&lt;p&gt;With this unique group, she sought to finally answer the original questions set out by Belyaev–what made these foxes develop the same traits as many other domesticated animals, especially given that they clearly did not undergo the same process of natural selection?&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://alfre.dk/assets/img/how-to-make-a-pet-fox/piebald_fox.jpg&quot; alt=&quot;Piebald fox&quot;&gt;&lt;figcaption&gt;Piebald fox&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3 id=&quot;selection-of-physical-traits&quot;&gt;Selection of Physical Traits&lt;/h3&gt;
+&lt;p&gt;Trut found strong evidence of Belyaev’s initial hypothesis. It appeared that selecting foxes for domestication resulted in deep-rooted changes in their development processes. But how do development processes elicit the specific physical changes we observe?&lt;/p&gt;
+&lt;p&gt;A good example lies in the coat color of the foxes. As it turns out, mere adjustments in the &lt;em&gt;timing&lt;/em&gt; of embryonic development can lead to a loss of pigment in parts of the fur. Let’s see how this works.&lt;/p&gt;
+&lt;p&gt;From the early generations, Belyaev observed that the piebald pattern appeared to be influenced by a gene he called &lt;em&gt;Star&lt;/em&gt;, which was also affected by the selection process. What Trut found, years later, was that the Star gene affects the migration rate of melanoblasts.&lt;/p&gt;
+&lt;p&gt;Melanoblasts are the embryonic form of melanocytes. Melanocytes, as their name might suggest, are cells which produce melanin, the pigment responsible for skin color.&lt;/p&gt;
+&lt;p&gt;Melanocytes form in a specific part of the embryo, and then migrate to other parts of the embryo’s epidermis. The migration typically begins when the embryo is 28 to 31 days old. But the existence of a Star gene delays the migration to certain parts of the epidermis by about two days, and this delay often results in death for these late-coming pigment cells. Because of this, no pigment is produced in certain parts of the fur.&lt;/p&gt;
+&lt;p&gt;This is just one of the ways adjustments in development processes can result in physical changes. Evidently, by affecting similar genes responsible for both behavior and development, domestication can result in these physical changes across species.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://alfre.dk/assets/img/how-to-make-a-pet-fox/fox_licking.jpg&quot; alt=&quot;Fox licking researcher&quot;&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;foxes-at-risk&quot;&gt;Foxes at Risk&lt;/h3&gt;
+&lt;p&gt;There is still much more research to be done in this area. The foxes are still evolving, and one can only guess how much further they may develop. At the same time, significant progress has already been made; in Trut’s own words, “Before our eyes, ‘the Beast’ has turned into ‘the Beauty’, as the aggressive behavior of our herd’s wild progenitors entirely disappeared.”&lt;/p&gt;
+&lt;p&gt;It seems to be an awful lot of progress to go to waste, but this is, in fact, the biggest threat that the experiment now faces. Since the collapse of the Soviet Union in 1991, research grants have been scarce, forcing Trut to make enormous sacrifices. In 1996, she had 700 foxes. Two years later, unable to afford feeding the foxes and paying salaries to her staff, she was forced to cut the number down to just 100.&lt;/p&gt;
+&lt;p&gt;By 2012, seeking alternative sources of funding, Trut has been trying to sell some of the foxes as exotic pets. But even that has not been very successful, with only a handful sold. Without the inflow of resources she needs to keep the lineage going, every year she makes the painful decision of choosing which ones to euthanize or sell off to fur farms.&lt;/p&gt;
+&lt;p&gt;Through their research, Belyaev and Trut have made numerous discoveries about the evolutionary processes of selection and domestication, teaching us a great deal about how animals (and perhaps even humans) developed the traits we see today. But unless a stable source of funding is secured, future discoveries in the area will have to come from somewhere else.&lt;/p&gt;
+&lt;div class=&quot;next_post&quot;&gt;
+
+
+
+&lt;p&gt;Next story: &lt;a href=&quot;http://alfre.dk/monkeys-washing-potatoes&quot;&gt;Monkeys Washing Potatoes&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;subscribe&quot;&gt;
+  &lt;p&gt;
+Get updates about new stories through:
+&lt;/p&gt;
+  &lt;ul class=&quot;subscribe-list&quot;&gt;
+  &lt;li class=&quot;twitter&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9729;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://twitter.com/aflrd&quot;&gt;Twitter&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;email&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9993;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feedburner.google.com/fb/a/mailverify?uri=alfredk&amp;amp;loc=en_US&quot;&gt;Email&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;rss&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9178;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feeds.feedburner.com/alfredk&quot;&gt;RSS&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;references&quot;&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+&lt;p&gt;“Animal Domestication: Taming the Wild - Pictures, More From National Geographic Magazine.” Accessed March 31, 2013. http://ngm.nationalgeographic.com/2011/03/taming-wild-animals/ratliff-text.&lt;/p&gt;
+&lt;p&gt;Terrill, Ceiridwen. “Guarding the Fox House.” Slate, March 13, 2012. http://www.slate.com/articles/health_and_science/science/2012/03/domesticated_foxes_in_siberia_an_experiment_in_peril_.html.&lt;/p&gt;
+&lt;p&gt;Trut, Lyudmila. “Early Canid Domestication: The Farm-Fox Experiment.” American Scientist 87, no. 2 (1999): 160. doi:10.1511/1999.2.160.&lt;/p&gt;
+&lt;/div&gt;</description>
+        <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+        <link>http://alfre.dk/how-to-make-a-pet-fox</link>
+        <guid isPermaLink="true">http://alfre.dk/how-to-make-a-pet-fox</guid>
+      </item>
+    
+      <item>
+        <title>Identical Identical Twins</title>
+        <description>&lt;p&gt;Oskar Stohr and Jack Yufe were identical twins, separated shortly after birth. Oskar was raised as a Catholic and a Nazi. Jack grew up as a Jew.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://alfre.dk/assets/img/identical-identical-twins/jack_yufe_oskar_stohr.jpg&quot; alt=&quot;Jack Yufe (left) and Oskar Stohr (right)&quot;&gt;&lt;figcaption&gt;Jack Yufe (left) and Oskar Stohr (right)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;These were two men with the exact same genes–they shared the same egg in their mother’s womb, and they now shared the same DNA. At the time they were born in 1933, their Jewish father and German mother were close to divorce. Within six months, the mother left for Germany, taking Oskar with her, leaving Jack with his father in Trinidad.&lt;/p&gt;
+&lt;p&gt;They met for the first time shortly after turning twenty, though they had each known about the existence of a twin for years. Taking his wife with him, Jack booked a flight from his home in the Carribbean to Frankfurt where Oskar lived.&lt;/p&gt;
+&lt;p&gt;It was an awkward meeting of strangers. They knew nothing about each other, yet Jack was staying at Oskar’s home for a week solely because they happened to share the same genes.&lt;/p&gt;
+&lt;p&gt;It soon occurred to them that despite their genetic equivalence, they were not going to get along. For one, there was the language barrier: Oskar spoke German, Jack spoke Yiddish. Although this took place about a decade after the Second World War, Oskar still had to hide his Jewish lineage, as his current step-father was an anti-Semite. Jack was offended by this; he was raised as a Jew and found no reason to conceal this fact.&lt;/p&gt;
+&lt;p&gt;The twins split up again at the end of the trip, becoming little more than acquaintances. They had not learned much about each other, save for the fact that they were physically similar. For twenty-five years, there was almost no contact between the two, until one day in 1979, when Jack came across an article about the “Minnesota Twins Study”.&lt;/p&gt;
+&lt;h3 id=&quot;twin-studies&quot;&gt;Twin Studies&lt;/h3&gt;
+&lt;p&gt;The Minnesota Twins Study was being conducted by Thomas Bouchard at the time. Bouchard was studying twins who were separated early in their lives and brought up in different environments. This struck a chord with Jack–he thought of the study as a good way to try to develop his strained relationship with his twin.&lt;/p&gt;
+&lt;p&gt;Jack contacted Bouchard, and Bouchard soon brought the two together in Minnesota. This time, almost immediately after meeting, their incredible similarities started to become apparent.&lt;/p&gt;
+&lt;p&gt;When they arrived and met at the airport, Jack and Oskar both wore wire-rimmed glasses, mustaches, and two-pocket shirts with epaulets. Over the course of the week-long study, the two men discovered that they had much more in common than they had thought twenty-five years prior. They both liked spicy foods and sweet liqueurs, dipped buttered toast in their coffee, and flushed the toilet before &lt;em&gt;and&lt;/em&gt; after using it. They both excelled at sports, had trouble with math, and had tendencies to fall asleep in front of the television. They even had the same habit of storing rubber bands on their wrists.&lt;/p&gt;
+&lt;p&gt;They discovered an even more extraordinary similarity one evening when they decided to visit a hypnotist together. The hypnotist, starting his routine, waited for absolute silence in the room before counting backwards to attempt to induce a trance. During this silence, Oskar felt an incredible urge to sneeze, and let it out in a deafening blast.&lt;/p&gt;
+&lt;p&gt;But it wasn’t a real sneeze. Oskar faked it. His wife soon explained that it was his idea of a joke. He liked to sneeze during uncomfortable silences.&lt;/p&gt;
+&lt;p&gt;Jack was taken aback–&lt;em&gt;he had the same tendency&lt;/em&gt;. Whenever he was in a crowded elevator filled with the air of awkward silence, he felt the same irresistible urge to fake a sneeze. He found it humorous and thoroughly enjoyable, though he knew it was an odd thing to do. And now, he found out, his twin had the &lt;em&gt;exact same oddity&lt;/em&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;genetics-and-upbringing&quot;&gt;Genetics and Upbringing&lt;/h3&gt;
+&lt;p&gt;How could these identical twins, growing up for five decades in drastically different environments, be so, well, identical? Are our genes largely responsible for the personality traits we develop?&lt;/p&gt;
+&lt;p&gt;This one anecdote is certainly not enough evidence on its own, but many pairs of separated identical twins have been studied over the years. Nancy Pederson and her fellow researchers, in a study of 99 separated identical twin pairs and 200 separated fraternal twin pairs, made several observations. For one, separated identical twins are understandably less similar than identical twins raised together. However, age of separation, degree of separation, and the time spent apart did not seem to affect the difference between twins’ personalities. From this, it was suggested that a child’s early rearing environment had little impact on personality.&lt;/p&gt;
+&lt;p&gt;In other words, our genes do seem to play a significant role in shaping our personalities, even later in life. Further supporting this idea, Nancy Segal found that &lt;em&gt;virtual twins&lt;/em&gt; (children of a similar age who are raised together but biologically unrelated) are also quite dissimilar, despite being raised in the same environment.&lt;/p&gt;
+&lt;p&gt;This might explain why siblings in the same family can turn out to be extremely different. As siblings only share half of their genes, their genetic differences may play a larger role than their upbringing in shaping their personality. This is not the only possible explanation, of course. It could be that siblings simply have very different life experiences &lt;em&gt;outside&lt;/em&gt; of home–different friends, different education, different hobbies–which shapes them into who they are. Or, perhaps siblings are, in a strange twist, influenced by &lt;em&gt;each other&lt;/em&gt;, in such a way that they each encourage the other’s differences.&lt;/p&gt;
+&lt;p&gt;Research is still young in this area, but current studies do seem to point to the idea that a shared environment has little impact, at least on certain personality traits such as extraversion and “agreeableness”. Then, you might wonder, is parenting or adoption useless? Do our environments shape us at all?&lt;/p&gt;
+&lt;h3 id=&quot;the-impact-of-nurture&quot;&gt;The Impact of Nurture&lt;/h3&gt;
+&lt;p&gt;Let’s look more closely at the case of Oskar and Jack. Do they have any &lt;em&gt;differences&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;Well, for one, they had opposing political views–Jack is politically liberal, Oskar is conservative. These contrasting values certainly played a role in their relative ambivalence towards each other when they first met.&lt;/p&gt;
+&lt;p&gt;Our political views and values do appear to be strongly affected by our upbringing, as do our attitudes and religious beliefs. These are aspects of a child that a family environment can often influence. Although the effects of a shared environment are relatively small, we cannot say that genetics are the only factor contributing to our behavior.&lt;/p&gt;
+&lt;p&gt;Even so, the specific aspects of our environments that shape us are still not clear; the research is continuing to evolve.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;We often like to think that our experiences are what define us. We feel influenced by our surroundings, and we feel that we can influence the things around us through our personality and behavior. But as evidence suggests, our experiences and upbringing may only account for some smaller piece of our personal identity.&lt;/p&gt;
+&lt;p&gt;Perhaps, at the very moment we exit our mother’s womb, nature has already made many decisions–decisions about our personality, our behavior, and our lives.&lt;/p&gt;
+&lt;div class=&quot;next_post&quot;&gt;
+
+
+
+&lt;p&gt;Next story: &lt;a href=&quot;http://alfre.dk/how-to-make-a-pet-fox&quot;&gt;How to Make a Pet Fox&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;subscribe&quot;&gt;
+  &lt;p&gt;
+Get updates about new stories through:
+&lt;/p&gt;
+  &lt;ul class=&quot;subscribe-list&quot;&gt;
+  &lt;li class=&quot;twitter&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9729;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://twitter.com/aflrd&quot;&gt;Twitter&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;email&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9993;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feedburner.google.com/fb/a/mailverify?uri=alfredk&amp;amp;loc=en_US&quot;&gt;Email&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;rss&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9178;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feeds.feedburner.com/alfredk&quot;&gt;RSS&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;references&quot;&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+&lt;p&gt;Pedersen, Nancy L., Robert Plomin, Gerald E. McClearn, and Lars Friberg. “Neuroticism, Extraversion, and Related Traits in Adult Twins Reared Apart and Reared Together.” Journal of Personality and Social Psychology 55, no. 6 (1988): 950–957. doi:10.1037/0022-3514.55.6.950.&lt;/p&gt;
+&lt;p&gt;Plomin, Robert. “Commentary: Why Are Children in the Same Family so Different? Non-shared Environment Three Decades Later.” International Journal of Epidemiology 40, no. 3 (June 1, 2011): 582–592. doi:10.1093/ije/dyq144.&lt;/p&gt;
+&lt;p&gt;Segal, Nancy L., and Scott L. Hershberger. “Virtual Twins and Intelligence: Updated and New Analyses of Within-family Environmental Influences.” Personality and Individual Differences 39, no. 6 (October 2005): 1061–1073. doi:10.1016/j.paid.2005.06.013.&lt;/p&gt;
+&lt;p&gt;Shaffer, David R. Social and Personality Development. Cengage Learning, 2009.&lt;/p&gt;
+&lt;p&gt;Turkheimer, Eric, and Mary Waldron. “Nonshared Environment: A Theoretical, Methodological, and Quantitative Review.” Psychological Bulletin 126, no. 1 (2000): 78–108.&lt;/p&gt;
+&lt;p&gt;Wright, William. Born That Way: Genes, Behavior, Personality. Psychology Press, 1999.&lt;/p&gt;
+&lt;/div&gt;</description>
+        <pubDate>Sat, 30 Mar 2013 00:00:00 +0000</pubDate>
+        <link>http://alfre.dk/identical-identical-twins</link>
+        <guid isPermaLink="true">http://alfre.dk/identical-identical-twins</guid>
+      </item>
+    
+      <item>
+        <title>Hypnosis and Throwing Acid</title>
+        <description>&lt;p&gt;After plunging his hand into a cup of nitric acid to retrieve a dissolving half-penny, the subject grabbed the cup of acid and threw it in the scientist’s face.&lt;/p&gt;
+&lt;p&gt;The “subject”, who we’ll call James (for convenience), was hypnotized. The hypnotist had earlier asked James to pick up a variety of objects placed in front of him: first a coin and a piece of chalk, then a harmless reptile, and finally–a 14-inch long venomous snake. Even though this was clearly a potentially dangerous request, James complied and reached forward.&lt;/p&gt;
+&lt;p&gt;His hand hit a pane of glass, invisible to him just moments before. Thankfully, it seemed, the hypnotist was kind, and not the sort of person to put James in harm’s way.&lt;/p&gt;
+&lt;p&gt;But the hypnotist had new idea on his mind. Collecting a beaker, a half-penny coin, and a bottle of nitric acid, he was ready for his next task. He put the half-penny in the beaker, and proceeded to pour nitric acid atop the coin. James watched intently for a minute as the coin began to dissolve.&lt;/p&gt;
+&lt;p&gt;This was the hypnotist’s chance to confirm that he had complete control over his subject. He asked James to pick up the penny with his bare hands. Without questioning, James complied.&lt;/p&gt;
+&lt;p&gt;This time, there was no glass or other obstruction. But, immediately after grabbing the coin, he was permitted to plunge his hands into a bowl of soapy water nearby. Despite the fact that he could have been easily been harmed had he left the acid on his hands too long, James was surprisingly nonchalant about the incident. That was, at least, until the hypnotist suggested that he should be angry–angry at the man responsible for these tasks, a scientist observing nearby.&lt;/p&gt;
+&lt;p&gt;James should also–the hypnotist continued–express his anger by taking the beaker full of acid and throwing it in the scientist’s face.&lt;/p&gt;
+&lt;p&gt;Once more, James complied.&lt;/p&gt;
+&lt;h3 id=&quot;the-researchers-power&quot;&gt;The Researcher’s Power&lt;/h3&gt;
+&lt;p&gt;James was a participant in a study by a pair of researchers, Orne and Evans. The scientist was thankfully unharmed, as the researchers switched out the beaker of acid for a beaker of water while the participant washed his hands.&lt;/p&gt;
+&lt;p&gt;Still, the year was 1962, well before psychologists had developed standards of ethics for their human experiments. Orne and Evans were replicating studies on hypnosis conducted by Loyd Rowland and Paul Young in 1939 and 1952. Specifically, they wanted to determine if hypnosis could be used to make subjects do things against their will–things they would never even &lt;em&gt;consider&lt;/em&gt; doing in a regular waking state.&lt;/p&gt;
+&lt;p&gt;Indeed, they found that participants under hypnosis would almost always perform the tasks they were given. But the study uncovered something even more remarkable: they could get the same effect from someone &lt;em&gt;pretending&lt;/em&gt; to be hypnotized.&lt;/p&gt;
+&lt;p&gt;As it turned out, the key to getting these people to pick up venomous snakes and dip their fingers in acid was &lt;em&gt;not&lt;/em&gt; the hypnosis, but something else entirely–the laboratory setting. By realizing they were merely participants in a controlled experiment, they had faith that the researchers would not do anything to harm them.&lt;/p&gt;
+&lt;p&gt;From this, it is hard to make any conclusion about the extent of control that hypnosis can exert. Instead, we see the influence that a &lt;em&gt;trusted authoritative figure&lt;/em&gt; can have on those under him, an influence seemingly similar to hypnosis. This makes us wonder, then, what exactly hypnosis &lt;em&gt;does&lt;/em&gt;–is it indeed a real phenomenon that invokes an altered state of consciousness?&lt;/p&gt;
+&lt;h3 id=&quot;is-hypnosis-fake&quot;&gt;Is Hypnosis Fake?&lt;/h3&gt;
+&lt;p&gt;Hypnosis is generally understood as a state of &lt;em&gt;heightened suggestibility&lt;/em&gt;. As such, scientists tend to agree that the power of hypnosis lies not in the hypnotist, but in their subject’s openness to suggestion. There are two major theories that attempt to account for the way this suggestibility affects our susceptibility to hypnosis: &lt;em&gt;social influence theory&lt;/em&gt; and &lt;em&gt;dissociation theory&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Social influence theory&lt;/em&gt; proposes that hypnotized subjects, while not consciously faking their actions, will begin to act in ways they think are appropriate for their role as a hypnotized person. As they place more trust in the hypnotist, they become more open to suggestion, in much the same way as participants who trust a researcher enough to perform questionable tasks. If the hypnotist somehow breaks this trust or the motivation for hypnotized subjects to continue, the hypnosis becomes ineffective and subjects become unresponsive.&lt;/p&gt;
+&lt;p&gt;But hypnosis is likely more than simply getting someone to &lt;em&gt;act&lt;/em&gt; in a certain way. We see this idea in a couple of experiments: Perugini and colleagues found that some hypnotized subjects would still follow suggestions even if no one was watching; Kosslyn and colleagues told their subjects under hypnosis to imagine a color, and found a pattern of brain activation that was the same as if they were actually seeing the color. There appear to be real changes in behaviour and perception when hypnotized.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Dissociation theory&lt;/em&gt; attempts to account for these changes by providing a more direct cognitive explanation of the effect of hypnosis. In an early experiment, Ernest Hilgard’s hypnotized subjects could leave their arm in ice cold water without feeling much pain, whereas his unhypnotized subjects given the same task would report feeling intense pain within 25 seconds. This led him to believe that hypnosis can trigger a dual-processing state, or dissociation, in the brain.&lt;/p&gt;
+&lt;p&gt;In this state, the area of the brain responsible for conscious experience would not necessarily activate; a stimulus like pain would still be processed, although it might pass through an unconscious channel in the brain. This can be seen, for example, in injured athletes who are able to ignore their pain until their game ends–the pain, while there, is not perceived consciously. It is, in effect, &lt;a href=&quot;http://alfre.dk/the-two-track-mind&quot;&gt;the two-track mind&lt;/a&gt; at work.&lt;/p&gt;
+&lt;p&gt;Rainville and colleagues confirmed this idea of dissociation through PET scans. Normal brain activity was found in the sensory cortex where the raw sensory input of pain is sent, but activity was reduced in the region that processes painful stimuli.&lt;/p&gt;
+&lt;p&gt;Much of the evidence thus far suggests that hypnosis is not simply fake acting by those who allow it; it genuinely influences both our behaviour and perception.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Hypnosis is a controversial subject, and a great deal is still unknown about its functions and power. But perhaps it should not be studied as a discrete phenomenon, or seen as a state only achievable through trained hypnotists. As we saw, the effects of hypnosis on our behaviour and perception appear to overlap with some less thrilling experiences–like trusting a researcher enough to do anything he asks, or being able to ignore pain in the face of danger or competition.&lt;/p&gt;
+&lt;p&gt;It is plausible that in these situations, we &lt;em&gt;are&lt;/em&gt; in a hypnotic state. Then, perhaps the practice of hypnosis is merely an evolved technique to efficiently reach the same state.&lt;/p&gt;
+&lt;div class=&quot;next_post&quot;&gt;
+
+&lt;p&gt;Related story: &lt;a href=&quot;http://alfre.dk/the-two-track-mind&quot;&gt;The Two-Track Mind&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Next story: &lt;a href=&quot;http://alfre.dk/identical-identical-twins&quot;&gt;Identical Identical Twins&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;subscribe&quot;&gt;
+  &lt;p&gt;
+Get updates about new stories through:
+&lt;/p&gt;
+  &lt;ul class=&quot;subscribe-list&quot;&gt;
+  &lt;li class=&quot;twitter&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9729;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://twitter.com/aflrd&quot;&gt;Twitter&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;email&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9993;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feedburner.google.com/fb/a/mailverify?uri=alfredk&amp;amp;loc=en_US&quot;&gt;Email&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;rss&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9178;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feeds.feedburner.com/alfredk&quot;&gt;RSS&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;references&quot;&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+&lt;p&gt;Hilgard, Ernest R. “Divided Consciousness and Dissociation.” Consciousness and Cognition 1, no. 1 (March 1992): 16–31. doi:10.1016/1053-8100(92)90041-8.&lt;/p&gt;
+&lt;p&gt;Kosslyn, Stephen M., William L. Thompson, Maria F. Costantini-Ferrando, Nathaniel M. Alpert, and David Spiegel. “Hypnotic Visual Illusion Alters Color Processing in the Brain.” American Journal of Psychiatry 157, no. 8 (August 1, 2000): 1279–1284. doi:10.1176/appi.ajp.157.8.1279.&lt;/p&gt;
+&lt;p&gt;“Orne &amp;amp; Evans 1965 JPSP.” Accessed March 27, 2013. http://www.psych.upenn.edu/history/orne/orneetal1965jpsp189200.html.&lt;/p&gt;
+&lt;p&gt;Perugini, Eve Marie, Irving Kirsch, Sarah T. Allen, Eleanor Coldwell, Janelle M. Meredith, Guy H. Montgomery, and Julia Sheehan. “Surreptitious Observation of Responses to Hypnotically Suggested Hallucinations: A Test of the Compliance Hypothesis.” International Journal of Clinical and Experimental Hypnosis 46, no. 2 (1998): 191–203. doi:10.1080/00207149808409999.&lt;/p&gt;
+&lt;p&gt;Rainville, Pierre, Gary H. Duncan, Donald D. Price, Benoı̂t Carrier, and M. Catherine Bushnell. “Pain Affect Encoded in Human Anterior Cingulate But Not Somatosensory Cortex.” Science 277, no. 5328 (August 15, 1997): 968–971. doi:10.1126/science.277.5328.968.&lt;/p&gt;
+&lt;p&gt;Spanos, Nicholas P. “A Social Psychological Approach to Hypnotic Behavior.” Integrations of Clinical and Social Psychology (1982): 231–271.&lt;/p&gt;
+&lt;/div&gt;</description>
+        <pubDate>Thu, 28 Mar 2013 00:00:00 +0000</pubDate>
+        <link>http://alfre.dk/hypnosis-and-throwing-acid</link>
+        <guid isPermaLink="true">http://alfre.dk/hypnosis-and-throwing-acid</guid>
+      </item>
+    
+      <item>
+        <title>Looking Without Seeing</title>
+        <description>&lt;p&gt;First: watch this video.&lt;/p&gt;
+&lt;figure class=&quot;video&quot;&gt;
+  &lt;div class=&quot;embed-wrap embed-4-3 chrome-25&quot;&gt;
+    &lt;iframe src=&quot;http://www.youtube.com/embed/vJG698U2Mvo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;If the result failed to surprise you, congratulations. If it did surprise you, don’t worry. This video was made in 1999 by a pair of cognitive researchers, Daniel Simons and Christopher Chabris. Among those that they tested it on, &lt;em&gt;half&lt;/em&gt; of them failed to see the gorilla. How is this possible?&lt;/p&gt;
+&lt;p&gt;Well, let’s start with a story.&lt;/p&gt;
+&lt;h3 id=&quot;an-unseen-fight&quot;&gt;An Unseen Fight&lt;/h3&gt;
+&lt;p&gt;It was a cold winter night in 1995, and four men had just fled from the scene of a shooting at the Walaikum Burger restaurant in Boston. A radio call was sent out for assistance in the foot chase. Two of the approximately sixty officers who responded to the radio call that night were Michael Cox and Kenneth Conley.&lt;/p&gt;
+&lt;p&gt;Michael Cox sat in the passenger seat of the first car in pursuit–an unmarked police car. Seeing one of the suspects, Robert “Smut” Brown III, sprinting away towards a fence, he dashed out of the car and proceeded to chase on foot. Brown reached the fence first and frantically started to climb. Cox soon caught up, grabbed the suspect and tried to pull him back down. But Brown wriggled out of his grasp and jumped down the other side of the fence.&lt;/p&gt;
+&lt;p&gt;Cox was just about to follow the suspect over the fence when he was hit in the head from behind. He collapsed to the ground. Several police officers surrounded him and proceeded to kick him in the head and body.&lt;/p&gt;
+&lt;p&gt;Cox was in plainclothes that night. They mistook him for a suspect.&lt;/p&gt;
+&lt;p&gt;Kenneth Conley had arrived at the scene a few minutes earlier. He saw the suspect cross the fence, and followed in pursuit. A mile later, he caught up and arrested Brown.&lt;/p&gt;
+&lt;p&gt;It was only after Cox was beaten quite badly that someone recognized him and yelled for the others to stop. Upon realizing their mistake, the officers did not help him or call for help–they fled the scene.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;For the next two years, investigations were conducted to uncover the people and motives behind the beating, but little information was found. None of the sixty or so officers on the scene admitted to knowing anything. Conley was one of these officers who denied any knowledge of the incident.&lt;/p&gt;
+&lt;p&gt;In court, Conley told the jury that despite having passed by the scene of the beating on his way to climb the fence, he did not see any beating happening. He claimed to experience “tunnel vision” during the chase, focusing solely on the suspect. In fact, even though Cox reportedly grabbed the suspect at the fence, &lt;em&gt;he had not seen Cox at all&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The case progressed, and Conley was eventually charged with perjury and obstruction of justice. The jurors simply could not believe that he did not see the other officers beating Cox, and concluded that he was lying under oath.&lt;/p&gt;
+&lt;h3 id=&quot;inattentional-blindness&quot;&gt;Inattentional Blindness&lt;/h3&gt;
+&lt;p&gt;What happened here? Did Conley really not notice the severe beating going on just a few paces from where he climbed the fence? Christopher Chabris and Daniel Simons, the researchers behind the “invisible gorilla” experiment, set out to demonstrate how it might be possible.&lt;/p&gt;
+&lt;p&gt;In 2011, years after Conley completed his 34-month prison sentence, Chabris and Simons set up a simulation of the incident. They asked participants to chase a running man while counting the number of times he touched his head; this would make the participants concentrate their focus on the man they were chasing. Then, at the site of the route, three men pretended to fight, with two of them beating the other.&lt;/p&gt;
+&lt;p&gt;The results were surprising: at night, only 35% of the participants noticed the fight. Even during the day, barely over half noticed.&lt;/p&gt;
+&lt;p&gt;This sheds some light onto Conley’s case. It is indeed plausible, and perhaps even likely, that he did not see the beating going on, especially given the time–2 a.m.–and the fact that his focus was on chasing down a sprinting criminal.&lt;/p&gt;
+&lt;p&gt;Arien Mack and Irvin Rock coined a term for this phenomenon back in 1992–&lt;em&gt;inattentional blindness&lt;/em&gt;. The effect has been demonstrated many times since then, such as in the gorilla video at the beginning of this article. This also drives one of the main methods magicians use to fool us; through misdirection and sleight of hand, they draw our focus to less important things and rely on our own inattentional blindness to obscure the real action.&lt;/p&gt;
+&lt;h3 id=&quot;selective-attention&quot;&gt;Selective Attention&lt;/h3&gt;
+&lt;p&gt;More generally, inattentional blindness is a form of &lt;em&gt;selective attention&lt;/em&gt;, a theory that suggests that we can only focus on a narrow part of all that we sense. An example of this is seen in the “cocktail party effect”: despite being in a crowded room full of people talking over each other, we are able to distinguish and focus on a single voice. When we choose to focus our attention like this, we effectively “tune out” the other voices, even if something strange or interesting is being said. We can still pick up certain cues that stand out or are important to us, such as hearing our name–but even then, not all the time.&lt;/p&gt;
+&lt;p&gt;In a study by Wood and Cowan, participants were given headphones and asked to listen to the audio coming from the right ear. As the track played in the right ear, a separate one was played in the left ear, one in which the participant’s name was spoken multiple times. At the end of the study, only 35% of the participants recalled hearing their name.&lt;/p&gt;
+&lt;p&gt;This limitation of ours is precisely the reason why talking on the phone while driving can be quite dangerous. By distracting ourselves, we continuously shift attention back and forth between driving and talking, which lowers our response time or makes us completely miss traffic signals, billboards, cars, or other important things on the road.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;We often expect our minds to see all that our eyes see, but this is often not the case. Our tendencies of selective attention and inattentional blindness mean we sometimes look at things without realizing what we are looking at, or miss things that we should be looking at.&lt;/p&gt;
+&lt;p&gt;In other words, sometimes we look, but do not see.&lt;/p&gt;
+&lt;div class=&quot;next_post&quot;&gt;
+
+
+
+&lt;p&gt;Next story: &lt;a href=&quot;http://alfre.dk/hypnosis-and-throwing-acid&quot;&gt;Hypnosis and Throwing Acid&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;subscribe&quot;&gt;
+  &lt;p&gt;
+Get updates about new stories through:
+&lt;/p&gt;
+  &lt;ul class=&quot;subscribe-list&quot;&gt;
+  &lt;li class=&quot;twitter&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9729;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://twitter.com/aflrd&quot;&gt;Twitter&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;email&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9993;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feedburner.google.com/fb/a/mailverify?uri=alfredk&amp;amp;loc=en_US&quot;&gt;Email&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;rss&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9178;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feeds.feedburner.com/alfredk&quot;&gt;RSS&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;references&quot;&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+&lt;p&gt;“Sights Unseen.” Accessed March 25, 2013. http://www.apa.org/monitor/apr01/blindness.aspx.&lt;/p&gt;
+&lt;p&gt;Chabris, Christopher F, Adam Weinberger, Matthew Fontaine, and Daniel J Simons. “You Do Not Talk About Fight Club If You Do Not Notice Fight Club: Inattentional Blindness for a Simulated Real-world Assault.” i-Perception 2, no. 2 (2011): 150–153. doi:10.1068/i0436.&lt;/p&gt;
+&lt;p&gt;Chabris, Christopher, and Daniel Simons. The Invisible Gorilla: And Other Ways Our Intuitions Deceive Us. Broadway Books, 2011.&lt;/p&gt;
+&lt;p&gt;Mack, Arien, and Irvin Rock. “Inattentional Blindness.” Psyche 5 (1999): 3.&lt;/p&gt;
+&lt;p&gt;Macknik, Stephen L., Mac King, James Randi, Apollo Robbins, Teller, John Thompson, and Susana Martinez-Conde. “Attention and Awareness in Stage Magic: Turning Tricks into Research.” Nature Reviews Neuroscience 9, no. 11 (November 2008): 871–879. doi:10.1038/nrn2473.&lt;/p&gt;
+&lt;p&gt;Wood, Noelle, and Nelson Cowan. “The Cocktail Party Phenomenon Revisited: How Frequent Are Attention Shifts to One’s Name in an Irrelevant Auditory Channel?” Journal of Experimental Psychology: Learning, Memory, and Cognition 21, no. 1 (1995): 255.&lt;/p&gt;
+&lt;/div&gt;</description>
+        <pubDate>Tue, 26 Mar 2013 00:00:00 +0000</pubDate>
+        <link>http://alfre.dk/looking-without-seeing</link>
+        <guid isPermaLink="true">http://alfre.dk/looking-without-seeing</guid>
+      </item>
+    
+      <item>
+        <title>The Two-Track Mind</title>
+        <description>&lt;p&gt;In the spring of 1988, a woman named Dee Fletcher collapsed into a coma from carbon monoxide poisoning. She awoke in the hospital some time later, having been saved by her partner who arrived home just in time. But when she awoke, she was unable to see.&lt;/p&gt;
+&lt;p&gt;The doctors diagnosed her with cortical blindness, suggesting that her brain’s primary visual center had been damaged. However, over the next few days, Dee started to see some things–flashes of red and green in the flowers beside her bed, of blue and white in the sky outside.&lt;/p&gt;
+&lt;p&gt;Dee’s mother flew in to visit her in the hospital. She was certainly in for a shock when one day, as they talked together over coffee, Dee said something quite extraordinary.&lt;/p&gt;
+&lt;p&gt;“You know what’s peculiar, Mum? I can see the tiny hairs on the back of your hand quite clearly!”&lt;/p&gt;
+&lt;p&gt;Mrs. Fletcher, full of hope that her daughter would make a full recovery, was soon saddened to find that, despite recognizing these details of her hand, Dee was entirely unable to make out the shape of her hand. In fact, she could not make out any shapes at all; she could only marginally distinguish objects with a distinctive color or texture.&lt;/p&gt;
+&lt;p&gt;As the days and weeks passed, it was obvious that Dee’s vision was not improving beyond this state. At this point, she was sent to a pair of cognitive neuroscientists, Melvyn Goodale and David Milner, in the hope that they might be able to help her.&lt;/p&gt;
+&lt;p&gt;Through some initial tests, Goodale and Milner learned a few things about her condition. Even though she could not distinguish objects based on shape, she could indeed see their color and surface detail and identify their material. She could detect a patch of fine lines, but counterintuitively, she was completely unable to tell if the lines were horizontal or vertical. She could detect colors, but saw no edges or boundaries to those colors; a fork and knife would appear to her as a single blob of color.&lt;/p&gt;
+&lt;p&gt;Despite all this, only Dee’s vision appeared to be affected by the asphyxia. Her memory, speech and senses of hearing and touch were unimpaired. But the most curious aspect of her behaviour was that she seemed to have no motor disabilities–even though she had so much trouble seeing, she had no problems walking or picking up objects with her hands.&lt;/p&gt;
+&lt;h3 id=&quot;vision-without-vision&quot;&gt;Vision Without Vision&lt;/h3&gt;
+&lt;p&gt;During one of the testing sessions, the scientists held up a pencil to see if she could recognize it. Predictably, she could not, and in line with previous experiments, she could not even tell if it was held vertically or horizontally. But then, something remarkable happened–with a perfectly coordinated movement, she suddenly reached out and took the pencil from the examiner’s hand.&lt;/p&gt;
+&lt;div class=&quot;figure-group&quot;&gt;
+&lt;img src=&quot;http://alfre.dk/assets/img/the-two-track-mind/sight_unseen_fig2.1.1.jpg&quot; alt=&quot;Taking a pencil positioned vertically&quot;&gt; &lt;img src=&quot;http://alfre.dk/assets/img/the-two-track-mind/sight_unseen_fig2.1.2.jpg&quot; alt=&quot;Taking a pencil positioned horizontally&quot;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Goodale and Milner, following their initial shock, took the pencil back and asked her to do it again. Each time they did this, she had no trouble grabbing it; it didn’t matter where they held it, or if they held it horizontally or vertically. Yet at the same time, she could not tell them anything about its position or orientation. Her hand had no trouble locating the pencil that her eyes could not see.&lt;/p&gt;
+&lt;p&gt;The scientists soon started to notice more and more incidents where there was a stark contrast between what she could &lt;em&gt;perceive&lt;/em&gt; and what she could &lt;em&gt;do&lt;/em&gt;. After one morning of frustrating tests at Dee’s home in Italy–she still could not recognize a single face, pattern, or drawing shown to her–her partner suggested that they go for a picnic in the Italian Alps to lighten the atmosphere. Following a short drive, the group had to walk half a mile through a dense forest to reach the picnic site. Yet Dee had no issues walking on the uneven path. She did not hesitate, stumble, or walk into any branches that hung over the path. And when they reached the picnic site, she was equally adept at grabbing things that were passed to her.&lt;/p&gt;
+&lt;p&gt;Goodale and Milner were set on determining the extent of her abilities. In a more formal experiment, Dee was able to consistently “post” a card through a narrow slot, regardless of its orientation. But when asked to simply rotate the card in her hand to match the orientation of the slot (without sliding it through), she was completely unable to do it.&lt;/p&gt;
+&lt;div class=&quot;figure-group&quot;&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://alfre.dk/assets/img/the-two-track-mind/sight_unseen_fig2.2.1.jpg&quot; alt=&quot;Matching a card to a slot&quot;&gt;&lt;figcaption&gt;Matching a card to a slot&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://alfre.dk/assets/img/the-two-track-mind/sight_unseen_fig2.2.2.jpg&quot; alt=&quot;Posting a card to a slot&quot;&gt;&lt;figcaption&gt;Posting a card to a slot&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In another experiment, she was shown numerous–colorless–objects of various shapes and sizes. Despite not being able to describe the width or position of the objects, she picked up every object with ease, accurately scaling her finger-thumb distance to the correct size based on the object’s size and orientation.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://alfre.dk/assets/img/the-two-track-mind/sight_unseen_fig2.5.jpg&quot; alt=&quot;Grasping arbitrary objects&quot;&gt;&lt;figcaption&gt;Grasping arbitrary objects&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Previous animal research had shown that the eye sends information simultaneously along different pathways to different brain areas. Gooddale and Milner knew this, but this was their first time witnessing it in a human, and the existence of different pathways was made only more clear by the fact that, other than her vision impairment, Dee’s brain appeared to be fully functioning. A scan of her brain activity confirmed the hypothesis: normal activity was seen in an area of the brain responsible for coordinating movement, but damage was evident in the area responsible for recognizing objects.&lt;/p&gt;
+&lt;h3 id=&quot;the-two-track-mind&quot;&gt;The Two-Track Mind&lt;/h3&gt;
+&lt;p&gt;Rather than having one unified system of vision, scientists now believe there are &lt;em&gt;two&lt;/em&gt; channels through which vision information is processed. A &lt;em&gt;visual perception track&lt;/em&gt; allows us to build up our intuitions about the physical nature of the world, and a &lt;em&gt;visual action track&lt;/em&gt; coordinates our physical motion so that we may interact with the things we see.&lt;/p&gt;
+&lt;p&gt;In people with unimpaired vision, this effect can be demonstrated by the “hollow face illusion”. Even though people may perceive the face as protruding rather than the hollowed-out shape that it is, they would accurately reach into the inverted face to touch a spot on it. That is, they would not hesitate nor attempt to touch the illusion of the protruding face that they see. Just like Dee, one’s hand acts based on information that the consciousness does not realize.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://alfre.dk/assets/img/the-two-track-mind/hollow_face_illusion.jpg&quot; alt=&quot;Hollow face illusion&quot;&gt;&lt;figcaption&gt;Hollow face illusion&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Stepping back from the topic of vision, the brain often acts in ways that divide its work into multiple “paths”, not all of which are conscious. On one hand, &lt;em&gt;unconscious parallel processing&lt;/em&gt; allows us to perform routine actions without a great deal of focus, such as brushing our teeth or recognizing faces. &lt;em&gt;Serial conscious processing&lt;/em&gt;, on the other hand, is slower than parallel processing, and requires us to concentrate on one task at a time - but this system is better for problem solving than unconscious processing.&lt;/p&gt;
+&lt;p&gt;Some people strongly (and understandably) believe that their actions are deliberate and driven by their intentions. But as the experiments illustrate, this is not always the case–our actions are often controlled through mental pathways that never cross through our consciousness.&lt;/p&gt;
+&lt;p&gt;This is the two-track nature of the mind.&lt;/p&gt;
+&lt;div class=&quot;next_post&quot;&gt;
+
+
+
+&lt;p&gt;Next story: &lt;a href=&quot;http://alfre.dk/looking-without-seeing&quot;&gt;Looking Without Seeing&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;subscribe&quot;&gt;
+  &lt;p&gt;
+Get updates about new stories through:
+&lt;/p&gt;
+  &lt;ul class=&quot;subscribe-list&quot;&gt;
+  &lt;li class=&quot;twitter&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9729;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://twitter.com/aflrd&quot;&gt;Twitter&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;email&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9993;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feedburner.google.com/fb/a/mailverify?uri=alfredk&amp;amp;loc=en_US&quot;&gt;Email&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li class=&quot;rss&quot;&gt;
+    
+&lt;i data-icon=&quot;&amp;#9178;&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://feeds.feedburner.com/alfredk&quot;&gt;RSS&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;references&quot;&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+&lt;p&gt;Goodale, Melvyn A., and A. David Milner. Sight Unseen: An Exploration of Conscious and Unconscious Vision. Oxford University Press, 2004.&lt;/p&gt;
+&lt;/div&gt;</description>
+        <pubDate>Mon, 25 Mar 2013 00:00:00 +0000</pubDate>
+        <link>http://alfre.dk/the-two-track-mind</link>
+        <guid isPermaLink="true">http://alfre.dk/the-two-track-mind</guid>
+      </item>
+    
+  </channel>
+</rss>
